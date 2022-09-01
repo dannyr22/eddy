@@ -1,0 +1,353 @@
+{
+  "sections": {
+    "16507112611d925512": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "section_size": "normal",
+        "video_url": "https:\/\/youtu.be\/UevlNdJ9uZU"
+      }
+    },
+    "16507112644f91fd39": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Welcome to Eddy",
+        "html": "Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside."
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5605.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5605.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Fall Has Arrived",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
+          }
+        },
+        "7a429131-3dd6-4938-96bc-c3745c97129d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4948.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4948.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-14003.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-14003.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-1709.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-1709.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Consciously curated whimsy",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "7a429131-3dd6-4938-96bc-c3745c97129d",
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
+        "cf27ba41-e092-4f95-9266-b967b4ed9688",
+        "slide-1"
+      ],
+      "settings": {
+        "show_fullscreen": true,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 4,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "1650476318fd586541": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4830.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "DRESSES",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-9718.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Tops",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "skirts",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8186.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "SKIRTS",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78": {
+          "type": "collection",
+          "settings": {
+            "collection": "blazers",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-14003.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Outerwear",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-2",
+        "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78",
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "165079842840a1d8ce": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5532.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "WELCOME TO EDDY",
+        "content": "<p>Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+      }
+    },
+    "165147731496201e33": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "1651477314e930b694-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all dresses"
+          }
+        }
+      },
+      "block_order": [
+        "1651477314e930b694-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1650711244533a7038": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "TOP IT OFF",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-13429.jpg",
+        "image_position": "right",
+        "content": "",
+        "link_text": "Shop Tops",
+        "link_url": "shopify:\/\/collections\/tops"
+      }
+    },
+    "1650798452ef2a3dd2": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "Business + Pleasure",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-14657.jpg",
+        "image_position": "left",
+        "content": "",
+        "link_text": "Shop Outerwear",
+        "link_url": "shopify:\/\/collections\/blazers"
+      }
+    },
+    "165079819941cc973c": {
+      "type": "image-with-text-block",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "normal",
+        "title": "SOMETHING TO TWIRL AROUND IN",
+        "content": "",
+        "button_label": "Shop Skirts",
+        "button_link": "shopify:\/\/collections\/skirts",
+        "show_parallax": true
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/w7KsHzn8.jpg",
+            "dot_style": "light",
+            "product_1": "amber-beaded-fluted-skirt",
+            "product_1_horizontal_position": 58,
+            "product_1_vertical_position": 62,
+            "product_2": "helen-tiered-maxi-dress-teal-cerise-floral",
+            "product_2_horizontal_position": 77,
+            "product_2_vertical_position": 70,
+            "product_3": "helen-tiered-maxi-dress",
+            "product_3_horizontal_position": 19,
+            "product_3_vertical_position": 50
+          }
+        },
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skirt0.jpg",
+            "dot_style": "light",
+            "product_1": "brook-embroidered-fluted-skirt",
+            "product_1_horizontal_position": 42,
+            "product_1_vertical_position": 34,
+            "product_2": "beaded-floral-handbag",
+            "product_2_horizontal_position": 52,
+            "product_2_vertical_position": 45,
+            "product_3": "trisha-tiered-skirt",
+            "product_3_horizontal_position": 73,
+            "product_3_vertical_position": 44
+          }
+        }
+      },
+      "block_order": [
+        "look-0",
+        "look-1"
+      ],
+      "settings": {
+        "subheading": "Shop",
+        "title": "Our looks",
+        "show_mobile_product_info": false
+      }
+    }
+  },
+  "order": [
+    "16507112611d925512",
+    "16507112644f91fd39",
+    "slideshow",
+    "1650476318fd586541",
+    "collection-list",
+    "165079842840a1d8ce",
+    "165147731496201e33",
+    "1650711244533a7038",
+    "1650798452ef2a3dd2",
+    "165079819941cc973c",
+    "shop-the-look"
+  ]
+}
