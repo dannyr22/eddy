@@ -1,0 +1,11 @@
+/*breadcrumbs ----------------------- */
+.breadcrumb {
+  display: none;
+  padding: 4rem 4rem;
+}
+
+@media (min-width: 764px) {
+  .breadcrumb {
+    display: block;
+  }
+}
