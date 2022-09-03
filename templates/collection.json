@@ -22,15 +22,6 @@
         "grid_desktop_items_per_row": 3
       }
     },
-    "recently-viewed-products": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "title": "Recently viewed",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false
-      }
-    },
     "1662225438454ecfc7": {
       "type": "shop-now",
       "blocks": {
@@ -48,8 +39,17 @@
       ],
       "settings": {
         "title": "Shop now",
-        "collection": "blazers",
+        "collection": "dresses",
         "grid_items_count": 6,
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Recently viewed",
         "show_product_info": true,
         "show_vendor": false,
         "show_color_swatch": false
@@ -58,7 +58,7 @@
   },
   "order": [
     "main",
-    "recently-viewed-products",
-    "1662225438454ecfc7"
+    "1662225438454ecfc7",
+    "recently-viewed-products"
   ]
 }
