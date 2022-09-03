@@ -1,4 +1,4 @@
-/*breadcrumbs ----------------------- */
+/* breadcrumbs ----------------------- */
 .breadcrumb {
   display: none;
   padding: 4rem 4rem;
@@ -8,4 +8,9 @@
   .breadcrumb {
     display: block;
   }
+}
+
+/* Footer----------------------------------*/
+.Footer__ThemeAuthor {
+  display: none;
 }
