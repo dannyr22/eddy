@@ -30,10 +30,35 @@
         "show_vendor": false,
         "show_color_swatch": false
       }
+    },
+    "1662225438454ecfc7": {
+      "type": "shop-now",
+      "blocks": {
+        "1662225438cbe653b3-0": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "content": "<p>You can use this element to add a quote, content...<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662225438cbe653b3-0"
+      ],
+      "settings": {
+        "title": "Shop now",
+        "collection": "blazers",
+        "grid_items_count": 6,
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
     }
   },
   "order": [
     "main",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "1662225438454ecfc7"
   ]
 }
