@@ -39,7 +39,7 @@
       ],
       "settings": {
         "title": "Shop now",
-        "collection": "dresses",
+        "collection": "accessories",
         "grid_items_count": 6,
         "show_product_info": true,
         "show_vendor": false,
