@@ -23,9 +23,11 @@
         "8db53f1f-d881-467a-a89b-050f3828f4e4": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
-            "subheading": "Slide title",
+            "subheading": "Introducing our sleepwear collection",
             "title": "Sweet Dreams",
             "button_1_text": "",
             "button_1_link": "",
