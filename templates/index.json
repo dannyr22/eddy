@@ -20,6 +20,19 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "8db53f1f-d881-467a-a89b-050f3828f4e4": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Sweet Dreams",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "slide-0": {
           "type": "image",
           "settings": {
@@ -33,21 +46,6 @@
             "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
-          }
-        },
-        "7a429131-3dd6-4938-96bc-c3745c97129d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4948.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4948.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
           }
         },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
@@ -97,8 +95,8 @@
         }
       },
       "block_order": [
+        "8db53f1f-d881-467a-a89b-050f3828f4e4",
         "slide-0",
-        "7a429131-3dd6-4938-96bc-c3745c97129d",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "slide-1"
