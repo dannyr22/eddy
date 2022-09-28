@@ -20,21 +20,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "8db53f1f-d881-467a-a89b-050f3828f4e4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Introducing our sleepwear collection",
-            "title": "Sweet Dreams",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "slide-0": {
           "type": "image",
           "settings": {
@@ -48,6 +33,21 @@
             "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
+          }
+        },
+        "8db53f1f-d881-467a-a89b-050f3828f4e4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Introducing our sleepwear collection",
+            "title": "Sweet Dreams",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
           }
         },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
@@ -97,8 +97,8 @@
         }
       },
       "block_order": [
-        "8db53f1f-d881-467a-a89b-050f3828f4e4",
         "slide-0",
+        "8db53f1f-d881-467a-a89b-050f3828f4e4",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "slide-1"
@@ -125,20 +125,6 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798": {
-          "type": "collection",
-          "settings": {
-            "collection": "sleepwear",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-0397.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Sleepwear",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
         "collection-0": {
           "type": "collection",
           "settings": {
@@ -167,6 +153,20 @@
             "apply_overlay": true
           }
         },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "skirts",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8186.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "SKIRTS",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
         "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78": {
           "type": "collection",
           "settings": {
@@ -181,15 +181,15 @@
             "apply_overlay": true
           }
         },
-        "collection-2": {
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798": {
           "type": "collection",
           "settings": {
-            "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8186.jpg",
+            "collection": "sleepwear",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-0397.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "SKIRTS",
+            "subheading": "Sub-heading",
+            "title": "Sleepwear",
             "button_text": "View products",
             "button_link": "",
             "apply_overlay": true
@@ -197,11 +197,11 @@
         }
       },
       "block_order": [
-        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798",
         "collection-0",
         "collection-1",
+        "collection-2",
         "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78",
-        "collection-2"
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798"
       ],
       "settings": {
         "image_size": "normal",
@@ -227,13 +227,12 @@
     },
     "165147731496201e33": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "1651477314e930b694-0": {
           "type": "collection",
           "settings": {
             "collection": "sleepwear",
-            "title": "Brand new in",
+            "title": "Brand new",
             "grid_items_count": 3,
             "button_text": "View all sleepwear"
           }
