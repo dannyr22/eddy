@@ -145,8 +145,8 @@
           "show_only_on_index": true,
           "show_only_for_visitors": true,
           "show_only_once": false,
-          "title": "Sign up and save",
-          "content": "<p>JOIN OUR MAILING LIST AND RECEIVE PROMOTIONAL OFFERS IN YOUR MAILBOX<\/p>",
+          "title": "Join Eddy",
+          "content": "<p>SIGN UP TO RECEIVE EXCLUSIVE OFFERS, FIRST LOOKS AT NEW ARRIVALS<\/p><p>& <\/p><p>10% OFF YOUR FIRST ORDER. <\/p>",
           "show_newsletter": true,
           "apparition_delay": 5
         }
