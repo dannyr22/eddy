@@ -112,6 +112,7 @@
           },
           "72e15177-4832-41a9-b6d1-d791eecc4241": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "Shipping Policy",
               "content": "<p>We offer FREE SHIPPING for all domestic U.S. orders. <\/p><p>All orders are processed within 1-2 business days (excluding weekends and holidays) after receiving your order confirmation email. You'll receive another notification when your order has shipped. <\/p>",
@@ -143,7 +144,7 @@
           "show_popup": true,
           "show_only_on_index": true,
           "show_only_for_visitors": true,
-          "show_only_once": true,
+          "show_only_once": false,
           "title": "Sign up and save",
           "content": "<p>JOIN OUR MAILING LIST AND RECEIVE PROMOTIONAL OFFERS IN YOUR MAILBOX<\/p>",
           "show_newsletter": true,
