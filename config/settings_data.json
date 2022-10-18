@@ -95,18 +95,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "shop-policies"
+            }
+          },
           "footer-0": {
             "type": "text",
             "settings": {
               "title": "WELCOME TO EDDY",
               "content": "<p>Your clothes should make you feel good. In ours, you will. Introducing Eddy, an elevated bohemian lifestyle brand. <\/p>",
               "show_social_media": true
-            }
-          },
-          "footer-1": {
-            "type": "links",
-            "settings": {
-              "menu": "shop-policies"
             }
           },
           "footer-2": {
@@ -127,8 +127,8 @@
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
+          "footer-0",
           "footer-2",
           "72e15177-4832-41a9-b6d1-d791eecc4241"
         ],
