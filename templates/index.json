@@ -20,21 +20,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eirenni_in_car.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eirenni_in_car.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "slide-0": {
           "type": "image",
           "settings": {
@@ -55,6 +40,21 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/babes_banner_2_de48b2ed-eb4a-485f-9346-8e7fdc387e6b.jpg",
             "mobile_image": "shopify:\/\/shop_images\/babes_banner_2_de48b2ed-eb4a-485f-9346-8e7fdc387e6b.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eirenni_in_car.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eirenni_in_car.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -97,9 +97,9 @@
         }
       },
       "block_order": [
-        "slide-1",
         "slide-0",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
+        "slide-1",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "8db53f1f-d881-467a-a89b-050f3828f4e4"
       ],
