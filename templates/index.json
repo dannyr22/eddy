@@ -20,21 +20,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
-            "button_2_text": "",
-            "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
-          }
-        },
         "slide-1": {
           "type": "image",
           "settings": {
@@ -48,6 +33,21 @@
             "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
+          }
+        },
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "HOLIDAY SPARKLE HAS ARRIVED",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
         },
         "cf27ba41-e092-4f95-9266-b967b4ed9688": {
@@ -97,8 +97,8 @@
         }
       },
       "block_order": [
-        "slide-0",
         "slide-1",
+        "slide-0",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "8db53f1f-d881-467a-a89b-050f3828f4e4"
