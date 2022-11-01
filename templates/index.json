@@ -231,7 +231,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5532.jpg",
+        "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0823.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 25,
@@ -267,18 +267,6 @@
         "grid_desktop_items_per_row": 3
       }
     },
-    "1650798452ef2a3dd2": {
-      "type": "text-with-image",
-      "settings": {
-        "subheading": "",
-        "title": "Business + Pleasure",
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-9543.jpg",
-        "image_position": "left",
-        "content": "",
-        "link_text": "Shop Outerwear",
-        "link_url": "shopify:\/\/collections\/blazers"
-      }
-    },
     "1650711244533a7038": {
       "type": "text-with-image",
       "settings": {
@@ -289,6 +277,18 @@
         "content": "",
         "link_text": "Shop Tops",
         "link_url": "shopify:\/\/collections\/tops"
+      }
+    },
+    "1650798452ef2a3dd2": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "Business + Pleasure",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-9543.jpg",
+        "image_position": "left",
+        "content": "",
+        "link_text": "Shop Outerwear",
+        "link_url": "shopify:\/\/collections\/blazers"
       }
     },
     "165079819941cc973c": {
@@ -361,8 +361,8 @@
     "collection-list",
     "165079842840a1d8ce",
     "165147731496201e33",
-    "1650798452ef2a3dd2",
     "1650711244533a7038",
+    "1650798452ef2a3dd2",
     "165079819941cc973c",
     "shop-the-look"
   ]
