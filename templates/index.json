@@ -23,38 +23,23 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5605.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5605.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Fall Has Arrived",
+            "title": "",
             "button_1_text": "",
             "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
         },
-        "8db53f1f-d881-467a-a89b-050f3828f4e4": {
+        "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/set_-_happy_maybe_banner.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Introducing our sleepwear collection",
-            "title": "Sweet Dreams",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy_Sedona_030922_Campaign_3875.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy_Sedona_030922_Campaign_3875.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0987_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0987_1.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -68,8 +53,8 @@
         "cf27ba41-e092-4f95-9266-b967b4ed9688": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4948.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4830.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0215-k.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0215-k.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -80,17 +65,32 @@
             "button_2_link": ""
           }
         },
-        "slide-1": {
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1148-k.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1148-k.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Consciously curated whimsy",
+            "title": "",
             "button_1_text": "",
             "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "8db53f1f-d881-467a-a89b-050f3828f4e4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-3463.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-3463.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "our sleepwear collection",
+            "title": "Sweet Dreams",
+            "button_1_text": "",
+            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -98,10 +98,10 @@
       },
       "block_order": [
         "slide-0",
-        "8db53f1f-d881-467a-a89b-050f3828f4e4",
-        "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
+        "slide-1",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
-        "slide-1"
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
+        "8db53f1f-d881-467a-a89b-050f3828f4e4"
       ],
       "settings": {
         "show_fullscreen": true,
@@ -129,7 +129,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-4830.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-2532-k.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -143,7 +143,7 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-9718.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22097-0820_1.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -157,7 +157,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8186.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22122-3719-k.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -171,7 +171,7 @@
           "type": "collection",
           "settings": {
             "collection": "blazers",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-14657.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0987_1.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -185,11 +185,25 @@
           "type": "collection",
           "settings": {
             "collection": "sleepwear",
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-0397.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22130-2930-k.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "Sleepwear",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-2022-Bag-Black-Pink-Flowers-132.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Accessories",
             "button_text": "View products",
             "button_link": "",
             "apply_overlay": true
@@ -201,7 +215,8 @@
         "collection-1",
         "collection-2",
         "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78",
-        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798"
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798",
+        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a"
       ],
       "settings": {
         "image_size": "normal",
@@ -227,11 +242,12 @@
     },
     "165147731496201e33": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "1651477314e930b694-0": {
           "type": "collection",
           "settings": {
-            "collection": "sleepwear",
+            "collection": "new-arrivals",
             "title": "Brand new",
             "grid_items_count": 3,
             "button_text": "View all sleepwear"
@@ -251,57 +267,58 @@
         "grid_desktop_items_per_row": 3
       }
     },
-    "1650711244533a7038": {
-      "type": "text-with-image",
-      "settings": {
-        "subheading": "",
-        "title": "TOP IT OFF",
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-SF-Fall22-13429.jpg",
-        "image_position": "right",
-        "content": "",
-        "link_text": "Shop Tops",
-        "link_url": "shopify:\/\/collections\/tops"
-      }
-    },
     "1650798452ef2a3dd2": {
       "type": "text-with-image",
       "settings": {
         "subheading": "",
         "title": "Business + Pleasure",
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-10218.jpg",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-9543.jpg",
         "image_position": "left",
         "content": "",
         "link_text": "Shop Outerwear",
         "link_url": "shopify:\/\/collections\/blazers"
       }
     },
+    "1650711244533a7038": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "TOP IT OFF",
+        "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-2754.jpg",
+        "image_position": "right",
+        "content": "",
+        "link_text": "Shop Tops",
+        "link_url": "shopify:\/\/collections\/tops"
+      }
+    },
     "165079819941cc973c": {
       "type": "image-with-text-block",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391.jpg",
+        "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0842-k.jpg",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
         "block_size": "normal",
         "title": "SOMETHING TO TWIRL AROUND IN",
         "content": "",
-        "button_label": "Shop Skirts",
-        "button_link": "shopify:\/\/collections\/skirts",
+        "button_label": "Shop Dresses",
+        "button_link": "shopify:\/\/collections\/dresses",
         "show_parallax": true
       }
     },
     "shop-the-look": {
       "type": "shop-the-look",
+      "disabled": true,
       "blocks": {
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/w7KsHzn8.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
             "dot_style": "light",
             "product_1": "amber-beaded-fluted-skirt",
             "product_1_horizontal_position": 58,
             "product_1_vertical_position": 62,
             "product_2": "helen-tiered-maxi-dress-teal-cerise-floral",
-            "product_2_horizontal_position": 77,
+            "product_2_horizontal_position": 78,
             "product_2_vertical_position": 70,
             "product_3": "helen-tiered-maxi-dress",
             "product_3_horizontal_position": 19,
@@ -344,8 +361,8 @@
     "collection-list",
     "165079842840a1d8ce",
     "165147731496201e33",
-    "1650711244533a7038",
     "1650798452ef2a3dd2",
+    "1650711244533a7038",
     "165079819941cc973c",
     "shop-the-look"
   ]
