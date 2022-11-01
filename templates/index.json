@@ -50,11 +50,11 @@
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
         },
-        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0215-k.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-0215-k.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-2754.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-2754.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -65,11 +65,11 @@
             "button_2_link": ""
           }
         },
-        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
+        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1148-k.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1148-k.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1582.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1582.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -99,8 +99,8 @@
       "block_order": [
         "slide-1",
         "slide-0",
-        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
+        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "8db53f1f-d881-467a-a89b-050f3828f4e4"
       ],
       "settings": {
