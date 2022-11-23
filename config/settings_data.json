@@ -65,11 +65,11 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": false,
+          "enable_bar": true,
           "home_page_only": false,
-          "background": "#fce7a8",
+          "background": "#cbb9be",
           "text_color": "#303030",
-          "content": "THE SUN'S SETTING ON SUMMER - 20% off all summer product through labor day. use code SUMMERSUNSET at checkout",
+          "content": "20% OFF SITEWIDE! DISCOUNT APPLIED AT CHECKOUT",
           "link": ""
         }
       },
