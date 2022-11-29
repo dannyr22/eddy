@@ -49,7 +49,7 @@
             "text_alignment": "center",
             "intro_text": "NOTIFY ME WHEN AVAILABLE",
             "placeholder_text": "enter your email",
-            "button_text": "Notify Me",
+            "button_text": "NOTIFY ME",
             "success_text": "Thanks for signing up. We will email you when this item becomes available again!",
             "error_text": "There was an error signing up for restock notifications. Please try again.",
             "input_border_color": "#000000",
