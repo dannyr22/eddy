@@ -40,14 +40,14 @@
         "50e8cc2b-105c-40bd-92ec-324b58b572d7": {
           "type": "shopify:\/\/apps\/alert-me-restock-alerts\/blocks\/product-form\/88d8595d-225a-4087-b3c0-661d0d859357",
           "settings": {
-            "form_bg_color": "#FEFEFE",
-            "border_color": "#EEEEEE",
+            "form_bg_color": "#fefefe",
+            "border_color": "#eeeeee",
             "border_width": 1,
             "form_padding": 15,
             "text_color": "#000000",
             "text_size": 14,
             "text_alignment": "center",
-            "intro_text": "NOTIFY ME WHEN AVAILABLE",
+            "intro_text": "LET ME KNOW WHEN IT'S BACK",
             "placeholder_text": "enter your email",
             "button_text": "NOTIFY ME",
             "success_text": "Thanks for signing up. We will email you when this item becomes available again!",
@@ -55,16 +55,16 @@
             "input_border_color": "#000000",
             "input_padding": 10,
             "button_bg_color": "#000000",
-            "button_text_color": "#FFFFFF",
+            "button_text_color": "#ffffff",
             "button_text_size": 14,
             "button_text_alignment": "center",
             "button_padding": 10,
             "marketing_optin_text_size": 10,
             "marketing_optin_text_color": "#333333",
-            "alert_msg_bg_success": "#EDF7ED",
-            "alert_msg_text_color_success": "#254C27",
-            "alert_msg_bg_error": "#FDEDED",
-            "alert_msg_text_color_error": "#8E5D5C"
+            "alert_msg_bg_success": "#edf7ed",
+            "alert_msg_text_color_success": "#254c27",
+            "alert_msg_bg_error": "#fdeded",
+            "alert_msg_text_color_error": "#8e5d5c"
           }
         },
         "buy_buttons": {
