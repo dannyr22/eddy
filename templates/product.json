@@ -43,6 +43,36 @@
             "show_price_in_button": false,
             "show_payment_button": true
           }
+        },
+        "50e8cc2b-105c-40bd-92ec-324b58b572d7": {
+          "type": "shopify:\/\/apps\/alert-me-restock-alerts\/blocks\/product-form\/88d8595d-225a-4087-b3c0-661d0d859357",
+          "settings": {
+            "form_bg_color": "#FEFEFE",
+            "border_color": "#EEEEEE",
+            "border_width": 1,
+            "form_padding": 15,
+            "text_color": "#000000",
+            "text_size": 14,
+            "text_alignment": "center",
+            "intro_text": "JOIN THE WAITLIST",
+            "placeholder_text": "Enter your email for restock notifications",
+            "button_text": "Notify Me",
+            "success_text": "Thanks for signing up for restock notifications!",
+            "error_text": "There was an error signing up for restock notifications. Please try again.",
+            "input_border_color": "#000000",
+            "input_padding": 10,
+            "button_bg_color": "#000000",
+            "button_text_color": "#FFFFFF",
+            "button_text_size": 14,
+            "button_text_alignment": "center",
+            "button_padding": 10,
+            "marketing_optin_text_size": 10,
+            "marketing_optin_text_color": "#333333",
+            "alert_msg_bg_success": "#EDF7ED",
+            "alert_msg_text_color_success": "#254C27",
+            "alert_msg_bg_error": "#FDEDED",
+            "alert_msg_text_color_error": "#8E5D5C"
+          }
         }
       },
       "block_order": [
@@ -51,7 +81,8 @@
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "50e8cc2b-105c-40bd-92ec-324b58b572d7"
       ],
       "settings": {
         "image_size": "large",
