@@ -17,6 +17,11 @@
           "settings": {
           }
         },
+        "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "share_buttons": {
           "type": "share_buttons",
           "settings": {
@@ -78,6 +83,7 @@
       "block_order": [
         "product_meta",
         "description",
+        "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac",
         "share_buttons",
         "variant_selector",
         "quantity_selector",
@@ -90,6 +96,22 @@
         "show_thumbnails": true,
         "enable_image_zoom": true,
         "enable_video_looping": false
+      }
+    },
+    "judgeme_section_review_widget_1de3": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_4caafb1f": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_4caafb1f"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "product-recommendations": {
@@ -108,22 +130,6 @@
         "show_product_info": true,
         "show_vendor": false,
         "show_color_swatch": false
-      }
-    },
-    "judgeme_section_review_widget_1de3": {
-      "type": "apps",
-      "blocks": {
-        "judgeme_review_widget_4caafb1f": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judgeme_review_widget_4caafb1f"
-      ],
-      "settings": {
-        "include_margins": true
       }
     }
   },
