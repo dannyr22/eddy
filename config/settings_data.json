@@ -65,11 +65,11 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": false,
+          "enable_bar": true,
           "home_page_only": false,
           "background": "#cbb9be",
           "text_color": "#303030",
-          "content": "NEW YEARS CHEERS! ENJOY 20% OFF SITEWIDE TIL 1\/10. AUTOMATICALLY APPLIED AT CHECKOUT",
+          "content": "NEW YEARS CHEERS! ENJOY 20% OFF SITE WIDE THROUGH 1\/10. AUTOMATICALLY APPLIED AT CHECKOUT",
           "link": ""
         }
       },
