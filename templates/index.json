@@ -35,21 +35,6 @@
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
         },
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dark_Green_Modern_Merry_Christmas_Greeting_Card_Banner_Landscape_Blog_Banner_3694d2a1-278b-4a45-8cbd-6d50ac3b795b.png",
-            "mobile_image": "shopify:\/\/shop_images\/Dark_Green_Modern_Merry_Christmas_Greeting_Card_Banner_Landscape_Blog_Banner_d2ab46d1-ed6c-4615-9698-80253ea2ad1d.png",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/gift-guide",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
@@ -98,7 +83,6 @@
       },
       "block_order": [
         "slide-0",
-        "slide-1",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "8db53f1f-d881-467a-a89b-050f3828f4e4"
