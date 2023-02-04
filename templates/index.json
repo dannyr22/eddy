@@ -65,21 +65,6 @@
             "button_2_link": ""
           }
         },
-        "e8df6fe0-1744-4325-b3b4-27fe5c32c38d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23009_23029_GROUP_3344.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23009_23029_GROUP_3344.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
           "settings": {
@@ -100,7 +85,6 @@
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "slide-0",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
-        "e8df6fe0-1744-4325-b3b4-27fe5c32c38d",
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5"
       ],
       "settings": {
