@@ -20,6 +20,21 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carmel_23004_23008_GROUP_2335.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23004_23008_GROUP_2335.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "in full bloom",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "slide-0": {
           "type": "image",
           "settings": {
@@ -40,21 +55,6 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Carmel_23029_23009_GROUP_26624.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Carmel_23029_23009_GROUP_26624.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23004_23008_GROUP_2335.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23004_23008_GROUP_2335.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -97,9 +97,9 @@
         }
       },
       "block_order": [
+        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "slide-0",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
-        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "8db53f1f-d881-467a-a89b-050f3828f4e4",
         "b135d271-6b89-492a-899b-65352b07ddcf"
       ],
