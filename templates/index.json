@@ -185,7 +185,7 @@
           "type": "collection",
           "settings": {
             "collection": "sleepwear",
-            "image": "shopify:\/\/shop_images\/Carmel_23036_23039_GROUP_4243.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23037-103_4949_2.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -272,7 +272,7 @@
       "settings": {
         "subheading": "",
         "title": "TOP IT OFF",
-        "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-2754.jpg",
+        "image": "shopify:\/\/shop_images\/carmel_23024-003_23032-003_2933_2_90385187-4cc9-486e-9eeb-9897c60a37f0.jpg",
         "image_position": "right",
         "content": "",
         "link_text": "Shop Tops",
@@ -351,6 +351,19 @@
         "title": "Our looks",
         "show_mobile_product_info": false
       }
+    },
+    "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Carmel_23009_23029_GROUP_3344.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "subheading": "",
+        "title": "A FLORAL INTRODUCTION",
+        "content": "<p>EDDY SPRING IS HERE<\/p>"
+      }
     }
   },
   "order": [
@@ -364,6 +377,7 @@
     "1650711244533a7038",
     "1650798452ef2a3dd2",
     "165079819941cc973c",
-    "shop-the-look"
+    "shop-the-look",
+    "6da4724e-df67-4ed8-b359-e8bcc428a7b1"
   ]
 }
