@@ -65,11 +65,11 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": false,
+          "enable_bar": true,
           "home_page_only": false,
           "background": "#809b85",
-          "text_color": "#303030",
-          "content": "SPRING CHAPTER 1 HAS BLOOMED",
+          "text_color": "#ffffff",
+          "content": "SPRING CHAPTER 1 HAS BLOOMED... BROWSE NOW",
           "link": "https:\/\/shopeddy.com\/collections\/valentines-day"
         }
       },
