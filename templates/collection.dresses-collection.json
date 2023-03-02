@@ -13,7 +13,7 @@
         "show_layout_switch": false,
         "toolbar_position": "top",
         "show_filters": false,
-        "show_filter_color_swatch": true,
+        "show_filter_color_swatch": false,
         "expand_filters": true,
         "filter_position": "sidebar",
         "filter_menu": "",
