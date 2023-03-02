@@ -181,20 +181,6 @@
             "apply_overlay": true
           }
         },
-        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessories",
-            "image": "shopify:\/\/shop_images\/Carmel_SILVER_BAG_0004.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Accessories",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
         "0f04bec7-f9c6-4fd3-a127-c1258f9d3798": {
           "type": "collection",
           "settings": {
@@ -208,6 +194,20 @@
             "button_link": "",
             "apply_overlay": true
           }
+        },
+        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/Carmel_SILVER_BAG_0004.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Accessories",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
         }
       },
       "block_order": [
@@ -215,8 +215,8 @@
         "collection-1",
         "collection-2",
         "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78",
-        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a",
-        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798"
+        "0f04bec7-f9c6-4fd3-a127-c1258f9d3798",
+        "4716ea2f-fda4-4eda-9f46-6f9270dfc04a"
       ],
       "settings": {
         "image_size": "normal",
