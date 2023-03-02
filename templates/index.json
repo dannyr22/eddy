@@ -24,7 +24,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_06e65185-b6e2-4839-975f-2b0bdd83c834.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -53,9 +53,9 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23091_23009_GROUP_27689_1e7aaa10-772b-41a1-b743-e92585398d30.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23091_23009_GROUP_27689_1e7aaa10-772b-41a1-b743-e92585398d30.jpg",
-            "apply_overlay": true,
+            "image": "shopify:\/\/shop_images\/Carmel_23028_23010_GROUP_3957.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23028_23010_GROUP_3957.jpg",
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
@@ -85,7 +85,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Carmel_23029_23009_GROUP_26624.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Carmel_23029_23009_GROUP_26624.jpg",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
@@ -129,7 +129,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Carmel_23091_23009_GROUP_27689.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23009_23011_GROUP_37021.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
