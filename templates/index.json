@@ -20,6 +20,21 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "cf27ba41-e092-4f95-9266-b967b4ed9688": {
           "type": "image",
           "settings": {
@@ -38,8 +53,8 @@
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_22081_23014_GROUP_3905-banner.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_22081_23014_GROUP_3905-banner.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23003_23013_GROUP_22127.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23003_23013_GROUP_22127.jpg",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -65,21 +80,6 @@
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
         },
-        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
@@ -97,10 +97,10 @@
         }
       },
       "block_order": [
+        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
         "slide-0",
-        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b"
       ],
       "settings": {
