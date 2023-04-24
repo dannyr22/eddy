@@ -68,8 +68,8 @@
         "settings": {
           "enable_bar": true,
           "home_page_only": false,
-          "background": "#ffffff",
-          "text_color": "#f2e511",
+          "background": "#fafafa",
+          "text_color": "#ffd900",
           "content": "NEW EDDY DELIVERY HAS ARRIVED! SHOP THE LATEST NOW",
           "link": "https:\/\/shopeddy.com\/collections\/the-wedding-edit"
         }
