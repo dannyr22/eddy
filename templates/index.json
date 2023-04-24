@@ -68,9 +68,9 @@
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23006_23012_GROUP_21558_06e65185-b6e2-4839-975f-2b0bdd83c834.jpg",
-            "apply_overlay": true,
+            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23001-309-4702_copy.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Summer23-MtTam-23001-309-4702_copy.jpg",
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
