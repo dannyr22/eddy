@@ -20,21 +20,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MtTam_23009-511_4320.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/MtTam_23009-511_4320.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "cf27ba41-e092-4f95-9266-b967b4ed9688": {
           "type": "image",
           "settings": {
@@ -46,6 +31,21 @@
             "title": "",
             "button_1_text": "",
             "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MtTam_23009-511_4320.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/MtTam_23009-511_4320.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -83,7 +83,7 @@
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_22081_23014_GROUP_3773-2_f812631d-a7c8-4dd7-b734-683e7c6beb9d.jpg",
+            "image": "shopify:\/\/shop_images\/MtTam_23012-608_1478_2.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Carmel_22081_23014_GROUP_3773-2_f812631d-a7c8-4dd7-b734-683e7c6beb9d.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -97,8 +97,8 @@
         }
       },
       "block_order": [
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
+        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
         "slide-0",
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b"
