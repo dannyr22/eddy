@@ -311,7 +311,7 @@
         "image": "shopify:\/\/shop_images\/MtTam_23093-129_0084_31a37394-45ab-4cbc-9940-ca464d23bb05.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#595959",
-        "overlay_opacity": 30,
+        "overlay_opacity": 0,
         "subheading": "",
         "title": "SOMETHING TO TWIRL AROUND IN",
         "content": "<p><a href=\"\/collections\/dresses\" title=\"Dresses\">Shop Dresses<\/a><\/p>"
