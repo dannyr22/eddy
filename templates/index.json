@@ -304,10 +304,23 @@
         "link_url": "shopify:\/\/collections\/blazers"
       }
     },
+    "5f602754-47b5-46d9-9946-f3419ee32656": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/MtTam_23093-129_0084.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#595959",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "SOMETHING TO TWIRL AROUND IN",
+        "content": "<p><a href=\"\/collections\/dresses\" title=\"Dresses\">Shop Dresses<\/a><\/p>"
+      }
+    },
     "165079819941cc973c": {
       "type": "image-with-text-block",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Carmel_23012_23001_GROUP_36626.jpg",
+        "image": "shopify:\/\/shop_images\/MtTam_23093-129_0084.jpg",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
         "block_size": "normal",
@@ -377,6 +390,7 @@
     "1650711244533a7038",
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "1650798452ef2a3dd2",
+    "5f602754-47b5-46d9-9946-f3419ee32656",
     "165079819941cc973c",
     "shop-the-look"
   ]
