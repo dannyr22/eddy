@@ -275,7 +275,7 @@
         "image": "shopify:\/\/shop_images\/Summer23-MtTam-23093-608-5424_4cb555e8-95c6-4dee-8578-1adc30c38638.jpg",
         "image_position": "right",
         "content": "",
-        "link_text": "FOR YOUR GOLDEN HOUR GLOW",
+        "link_text": "SHOP DRESSES",
         "link_url": "shopify:\/\/collections\/dresses"
       }
     },
@@ -308,13 +308,13 @@
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/MtTam_23093-129_0084_31a37394-45ab-4cbc-9940-ca464d23bb05.jpg",
+        "image": "shopify:\/\/shop_images\/MtTam_23093-129_0327_92c84ddb-e826-4692-9254-4ac873b4b928.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#595959",
         "overlay_opacity": 0,
         "subheading": "",
-        "title": "SOMETHING TO TWIRL AROUND IN",
-        "content": "<p><a href=\"\/collections\/dresses\" title=\"Dresses\">Shop Dresses<\/a><\/p>"
+        "title": "A DETAILED LOOK",
+        "content": "<p><a href=\"\/products\/gavin-fringe-mini-dress-alabaster-multicolor-floral-with-lurex\" title=\"Gavin Fringe Mini Dress\">GOLDEN HOUR GLOW AHEAD<\/a><\/p>"
       }
     },
     "shop-the-look": {
