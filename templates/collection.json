@@ -22,6 +22,22 @@
         "grid_desktop_items_per_row": 3
       }
     },
+    "1686257247cd06668e": {
+      "type": "apps",
+      "blocks": {
+        "96c0973a-4f0d-455a-8e3c-8744f273c590": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "96c0973a-4f0d-455a-8e3c-8744f273c590"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1662225438454ecfc7": {
       "type": "shop-now",
       "blocks": {
@@ -54,28 +70,12 @@
         "show_vendor": false,
         "show_color_swatch": false
       }
-    },
-    "1686257247cd06668e": {
-      "type": "apps",
-      "blocks": {
-        "96c0973a-4f0d-455a-8e3c-8744f273c590": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "96c0973a-4f0d-455a-8e3c-8744f273c590"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
+    "1686257247cd06668e",
     "1662225438454ecfc7",
-    "recently-viewed-products",
-    "1686257247cd06668e"
+    "recently-viewed-products"
   ]
 }
