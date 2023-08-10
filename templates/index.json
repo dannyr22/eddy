@@ -68,9 +68,9 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall_Lookbook-3_a29adba4-417e-4720-b409-d9af4e6df496.jpg",
+            "image": "shopify:\/\/shop_images\/Fall_Lookbook-3_fd0c03bb-3e66-4d37-8c3e-d8350cfa51d0.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall_Lookbook-3_a29adba4-417e-4720-b409-d9af4e6df496.jpg",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
