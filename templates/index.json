@@ -143,7 +143,7 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
-            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23029-111-23019-111-0336.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23096-425_7801_fe8a46cd-df3b-4371-b001-c6da10d9bc83.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -157,7 +157,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23031-112-23024-112-4660.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23099-705_23102-705_25045.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -171,7 +171,7 @@
           "type": "collection",
           "settings": {
             "collection": "blazers",
-            "image": "shopify:\/\/shop_images\/Carmel_22081_23014_GROUP_3773-2_117a55f0-c698-40f7-b7a8-e8ff7c4a11de.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23032-425_23108-965_21319_de87959c-f9aa-463c-b1bc-90e9af75bb0c.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -199,7 +199,7 @@
           "type": "collection",
           "settings": {
             "collection": "accessories",
-            "image": "shopify:\/\/shop_images\/Carmel_SILVER_BAG_0004.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23016-425_5901_ef447f3e-e255-4bc1-84e9-09f5631f8b45.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -271,12 +271,12 @@
       "type": "text-with-image",
       "settings": {
         "subheading": "",
-        "title": "MINI MOMENTS",
-        "image": "shopify:\/\/shop_images\/Summer23-MtTam-23093-608-5424_4cb555e8-95c6-4dee-8578-1adc30c38638.jpg",
+        "title": "COZY SEASON",
+        "image": "shopify:\/\/shop_images\/Fall23-WhiteSweater_6061.jpg",
         "image_position": "right",
         "content": "",
-        "link_text": "SHOP DRESSES",
-        "link_url": "shopify:\/\/collections\/dresses"
+        "link_text": "SHOP SWEATERS",
+        "link_url": "shopify:\/\/collections\/blazers"
       }
     },
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
