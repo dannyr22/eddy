@@ -129,7 +129,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/MtTam_23041-650_3840.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23111-215_25761_8d83953d-aa00-489d-8870-59af1f3f95ee.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -231,7 +231,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Summer23-MtTam-23016-250-4867.jpg",
+        "image": "shopify:\/\/shop_images\/FA23_SWATCH-215_022_4101bd15-3eaf-4bd3-813a-f4ba330028de.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#595959",
         "overlay_opacity": 22,
