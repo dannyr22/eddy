@@ -23,8 +23,8 @@
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MtTam_23009-511_4320_a9be58dc-17ca-40a5-9482-13adecb7b73e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/MtTam_23009-511_4320_8298082b-5fce-41f1-ac69-c234e19e859e.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -242,7 +242,6 @@
     },
     "165147731496201e33": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "1651477314e930b694-0": {
           "type": "collection",
@@ -257,6 +256,7 @@
       "block_order": [
         "1651477314e930b694-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "layout_mode": "grid",
@@ -319,7 +319,6 @@
     },
     "shop-the-look": {
       "type": "shop-the-look",
-      "disabled": true,
       "blocks": {
         "look-0": {
           "type": "look",
@@ -358,6 +357,7 @@
         "look-0",
         "look-1"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "Shop",
         "title": "Our looks",
