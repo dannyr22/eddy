@@ -68,9 +68,9 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mttam_23014-129_0441_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/mttam_23014-129_0441_2.jpg",
-            "apply_overlay": false,
+            "image": "shopify:\/\/shop_images\/Fall23-23104-215_23265.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23104-215_23265.jpg",
+            "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
