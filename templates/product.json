@@ -12,6 +12,12 @@
             "show_taxes_included": false
           }
         },
+        "c3e2b92f-62c1-40a1-8473-779bb143cf08": {
+          "type": "text",
+          "settings": {
+            "text": "20% APPLIED AT CHECKOUT *EXCHANGES & STORE CREDIT RETURNS ONLY*"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -78,24 +84,18 @@
             "show_price_in_button": false,
             "show_payment_button": true
           }
-        },
-        "c3e2b92f-62c1-40a1-8473-779bb143cf08": {
-          "type": "text",
-          "settings": {
-            "text": "20% APPLIED AT CHECKOUT *EXCHANGES & STORE CREDIT RETURNS ONLY*"
-          }
         }
       },
       "block_order": [
         "product_meta",
+        "c3e2b92f-62c1-40a1-8473-779bb143cf08",
         "description",
         "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac",
         "share_buttons",
         "variant_selector",
         "quantity_selector",
         "50e8cc2b-105c-40bd-92ec-324b58b572d7",
-        "buy_buttons",
-        "c3e2b92f-62c1-40a1-8473-779bb143cf08"
+        "buy_buttons"
       ],
       "settings": {
         "image_size": "large",
