@@ -20,6 +20,21 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fall23-23016-018_7064_f313b92e-b556-4b3d-89ec-9c22bbb0a2e2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23016-018_7064_f313b92e-b556-4b3d-89ec-9c22bbb0a2e2.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
@@ -38,7 +53,7 @@
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23016-018_7057_a98bd71a-dc24-4fed-9bdd-a9afeaf14ce9.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall23-23112-608_20627.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -79,29 +94,14 @@
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
-        },
-        "cf27ba41-e092-4f95-9266-b967b4ed9688": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23016-018_7064_f313b92e-b556-4b3d-89ec-9c22bbb0a2e2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23016-018_7064_f313b92e-b556-4b3d-89ec-9c22bbb0a2e2.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
+        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
-        "slide-0",
-        "cf27ba41-e092-4f95-9266-b967b4ed9688"
+        "slide-0"
       ],
       "settings": {
         "show_fullscreen": true,
