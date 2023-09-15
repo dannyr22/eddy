@@ -50,25 +50,10 @@
             "button_2_link": ""
           }
         },
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23111-425_24148_81018670-0359-4f77-8605-66fc9558f176.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23032-170_23020-170_20664_copy.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall23-23111-425_24148_46a0d29b-351e-44c2-baec-523bf506d4dc.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -94,14 +79,29 @@
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
+        },
+        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
-        "slide-0"
+        "slide-0",
+        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470"
       ],
       "settings": {
         "show_fullscreen": true,
