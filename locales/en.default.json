@@ -318,8 +318,8 @@
       }
     },
     "labels": {
-      "sold_out": "Sold out",
-      "on_sale": "On sale"
+      "sold_out": "Sold Out",
+      "on_sale": "FINAL SALE"
     },
     "slideshow": {
       "zoom": "Zoom",
