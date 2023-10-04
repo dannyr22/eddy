@@ -72,29 +72,8 @@
               </ul>
             {%- endif -%}
           </div>
-      {% if line_item.collections contains 'Sample Sale' %}
-          <div class="finalsale_container">
-            <p>Final Sale</p>
-          </div>
-        {% else %}
-        <p>s</p>
-        {% endif %}
-    
-{% assign sampleSaleCollectionHandle = 'sample-sale' %}
-{% assign productInSampleSale = false %}
-
-{% for collection in line_item.product.collections %}
-  {% if collection.handle == sampleSaleCollectionHandle %}
-    {% assign productInSampleSale = true %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-
-{% if productInSampleSale %}
-  <div class="finalsale_container">
-            <p>Final Sale</p>
-          </div>
-{% endif %}
+ 
+     
 
 
           
