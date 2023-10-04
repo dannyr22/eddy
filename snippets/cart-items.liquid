@@ -83,7 +83,7 @@
 {% assign sampleSaleCollectionHandle = 'sample-sale' %}
 {% assign productInSampleSale = false %}
 
-{% for collection in item.product.collections %}
+{% for collection in line_item.product.collections %}
   {% if collection.handle == sampleSaleCollectionHandle %}
     {% assign productInSampleSale = true %}
     {% break %}
@@ -93,6 +93,9 @@
 {% if productInSampleSale %}
   <p>Final Sale</p>
 {% endif %}
+
+
+          
           {%- if line_item.unit_price_measurement -%}
             <div class="CartItem__UnitPriceMeasurement">
               <div class="UnitPriceMeasurement Heading Text--subdued">
