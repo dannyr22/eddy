@@ -73,7 +73,7 @@
             {%- endif -%}
           </div>
       {% if line_item.collections contains 'Sample Sale' %}
-          <div class="fimalsale_container">
+          <div class="finalsale_container">
             <p>Final Sale</p>
           </div>
         {% else %}
@@ -81,7 +81,7 @@
         {% endif %}
     {% assign sampleSaleCollection = 'sample-sale' %}
 
-{% for collection in product.collections %}
+{% for collection in line_item.collections %}
   {% if collection.handle == sampleSaleCollection %}
     <p>Final Sale</p>
   {% endif %}
