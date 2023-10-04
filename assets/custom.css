@@ -14,3 +14,14 @@
 .Footer__ThemeAuthor {
   display: none;
 }
+
+
+.finalsale_container p {
+    background: #96905b;
+    width: fit-content;
+    padding: 2px 5px;
+    letter-spacing: 1px;
+    color: white;
+    font-weight: 500;
+    margin-top: 6px;
+}
