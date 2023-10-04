@@ -72,16 +72,20 @@
               </ul>
             {%- endif -%}
           </div>
-
+      {% if line_item.collections contains 'Sample Sale' %}
+          <div class="fimalsale_container">
+            <p>Final Sale</p>
+          </div>
+        {% else %}
+        <p>s</p>
+        {% endif %}
     {% assign sampleSaleCollection = 'sample-sale' %}
 
-    {% for collection in product.collections %}
-      {% if collection.handle == sampleSaleCollection %}
-          <div class="fimalsale_container">
-                <p>Final Sale</p>
-              </div>
-      {% endif %}
-    {% endfor %}
+{% for collection in product.collections %}
+  {% if collection.handle == sampleSaleCollection %}
+    <p>Final Sale</p>
+  {% endif %}
+{% endfor %}
           {%- if line_item.unit_price_measurement -%}
             <div class="CartItem__UnitPriceMeasurement">
               <div class="UnitPriceMeasurement Heading Text--subdued">
