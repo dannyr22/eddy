@@ -72,7 +72,11 @@
               </ul>
             {%- endif -%}
           </div>
-
+      {% if line_item.collections contains 'Sample Sale' %}
+          <div class="fimalsale_container">
+            <p>Final Sale</p>
+          </div>
+        {% endif %}
           {%- if line_item.unit_price_measurement -%}
             <div class="CartItem__UnitPriceMeasurement">
               <div class="UnitPriceMeasurement Heading Text--subdued">
