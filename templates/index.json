@@ -25,8 +25,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391_39d73abe-0326-433f-9828-c3561cdecae2.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391_e112ab80-b498-40c1-bd8c-f9ab8fcaf9a1.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
+            "apply_overlay": true,
+            "content_position": "bottomRight",
             "subheading": "ONLINE EXCLUSIVE",
             "title": "SAMPLE SALE",
             "button_1_text": "",
