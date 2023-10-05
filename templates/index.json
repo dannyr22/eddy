@@ -23,9 +23,9 @@
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391_39d73abe-0326-433f-9828-c3561cdecae2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-6391_e112ab80-b498-40c1-bd8c-f9ab8fcaf9a1.jpg",
-            "apply_overlay": true,
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5071.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5071_4548bf47-9325-4da3-a77e-df78db98eeab.jpg",
+            "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
             "title": "SAMPLE SALE",
