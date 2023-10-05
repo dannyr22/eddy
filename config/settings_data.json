@@ -167,12 +167,6 @@
 
     ],
     "blocks": {
-      "4571859552318407796": {
-        "type": "shopify:\/\/apps\/globo-color-swatch\/blocks\/app-embed-block\/4394f710-096c-4021-bbde-8ebb26057c11",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "judgeme_core_391cfbaf": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
@@ -202,6 +196,12 @@
         "disabled": true,
         "settings": {
           "position": "right"
+        }
+      },
+      "4571859552318407796": {
+        "type": "shopify:\/\/apps\/globo-color-swatch\/blocks\/app-embed-block\/4394f710-096c-4021-bbde-8ebb26057c11",
+        "disabled": false,
+        "settings": {
         }
       }
     }
