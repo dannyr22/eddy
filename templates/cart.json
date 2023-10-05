@@ -15,14 +15,6 @@
         "html": "Due to the response of our Sample Sale, all order and shipping time may be slightly delayed. Please allow additional time to process &amp; ship your order. We appreciate your patience and understanding. If you have any questions or need further assitance, please reach out to us at hello@shopeddy.com. Thank you for being a part of our whimsical world!"
       }
     },
-    "2fb3e96e-9dc6-4339-a34d-bbd46d986164": {
-      "type": "custom-liquid",
-      "settings": {
-        "subheading": "Please Note",
-        "title": "",
-        "liquid": "Due to the response of our Sample Sale, all order and shipping time may be slightly delayed. Please allow additional time to process & ship your order. We appreciate your patience and understanding. If you have any questions or need further assitance, please reach out to us at hello@shopeddy.com. Thank you for being a part of our whimsical world!"
-      }
-    },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
       "settings": {
@@ -36,7 +28,6 @@
   "order": [
     "main",
     "289bde7c-dfe0-4ddf-b0b4-83b8a1d4996e",
-    "2fb3e96e-9dc6-4339-a34d-bbd46d986164",
     "recently-viewed-products"
   ]
 }
