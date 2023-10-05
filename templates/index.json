@@ -83,14 +83,14 @@
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23103-705_7621_2.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8078_copy.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-8078_copy_16ed5d5e-808a-49d5-9342-e563d0f58d16.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
+            "subheading": "OUR FIRST EVER",
+            "title": "SAMPLE SALE",
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_link": "shopify:\/\/collections\/sample-sale",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -368,7 +368,7 @@
       "type": "apps",
       "blocks": {
         "6a8f4b13-ae85-4d61-acba-38dc3b114b5a": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
