@@ -25,10 +25,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5071_2.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_Instagram_Post_Your_Story.png",
-            "apply_overlay": false,
+            "apply_overlay": true,
             "content_position": "bottomRight",
-            "subheading": "",
-            "title": "",
+            "subheading": "Ending Monday, 10\/9",
+            "title": "SAMPLE SALE",
             "button_1_text": "SAMPLE SALE",
             "button_1_link": "shopify:\/\/collections\/sample-sale",
             "button_2_text": "",
