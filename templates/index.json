@@ -23,13 +23,13 @@
         "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_75ca8c5a-112b-4fc4-a426-36a32259cd3d.jpg",
+            "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-5071_2.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_Instagram_Post_Your_Story.png",
             "apply_overlay": false,
             "content_position": "bottomRight",
-            "subheading": "Explore now",
-            "title": "",
-            "button_1_text": "",
+            "subheading": "",
+            "title": "SAMPLE SALE",
+            "button_1_text": "Explore Now",
             "button_1_link": "shopify:\/\/collections\/sample-sale",
             "button_2_text": "",
             "button_2_link": ""
