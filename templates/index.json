@@ -84,13 +84,13 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fall_Lookbook-4_1779f973-b892-4967-8c9e-71450f32f011.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall_Lookbook-4_665c6009-1597-4fa3-8605-41d801dbe54c.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story_24cb8a79-e21f-4025-8d59-6cf54392570b.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_1_link": "shopify:\/\/collections\/blazers",
             "button_2_text": "",
             "button_2_link": ""
           }
