@@ -82,11 +82,10 @@
         },
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Fall_Lookbook-3_78853e77-a8a0-4ce9-8a35-29710feb718a.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall_Lookbook-3_97b674a3-be1d-437e-bed9-a0a3756737c4.jpg",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
