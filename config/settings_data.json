@@ -66,12 +66,12 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": false,
+          "enable_bar": true,
           "home_page_only": false,
           "background": "#7b8f6d",
           "text_color": "#ffffff",
           "content": "FALLING IN LOVE - EXPLORE THE FALL WEDDING EDIT",
-          "link": "shopify:\/\/collections\/sample-sale"
+          "link": "shopify:\/\/collections\/the-wedding-edit"
         }
       },
       "header": {
