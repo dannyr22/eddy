@@ -20,18 +20,17 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470": {
+        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_185a35b4-ca72-428a-9d8c-c3e9cbebd991.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_9bd4ae0b-e148-456e-906f-ebb92c30bd64.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy.jpg",
             "apply_overlay": false,
-            "content_position": "bottomRight",
-            "subheading": "Ending Monday, 10\/9",
-            "title": "SAMPLE SALE",
-            "button_1_text": "Explore Now",
-            "button_1_link": "shopify:\/\/collections\/sample-sale",
+            "content_position": "bottomLeft",
+            "subheading": "Explore Fall Chapter two",
+            "title": "THE BUTTERFLY RELEASE",
+            "button_1_text": "",
+            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -47,21 +46,6 @@
             "title": "",
             "button_1_text": "",
             "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "Explore Fall Chapter two",
-            "title": "THE BUTTERFLY RELEASE",
-            "button_1_text": "",
-            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -98,9 +82,8 @@
         }
       },
       "block_order": [
-        "6b4f707c-3b5b-4d4c-93c7-e1c3c2719470",
-        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
+        "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "slide-0"
       ],
