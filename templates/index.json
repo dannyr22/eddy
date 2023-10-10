@@ -23,7 +23,7 @@
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy_2.jpg",
+            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_9bed9671-d830-48e5-b805-38b18fd69468.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -79,13 +79,28 @@
             "button_2_text": "",
             "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
           }
+        },
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
-        "slide-0"
+        "slide-0",
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
       ],
       "settings": {
         "show_fullscreen": true,
