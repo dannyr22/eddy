@@ -50,21 +50,6 @@
             "button_2_link": ""
           }
         },
-        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23032-170_23020-170_20664_copy.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23111-425_24148_46a0d29b-351e-44c2-baec-523bf506d4dc.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "slide-0": {
           "type": "image",
           "settings": {
@@ -94,14 +79,29 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fall_Lookbook-4_ccf8febf-3381-48b3-9cf5-10e648ef5d13.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23111-425_24148_46a0d29b-351e-44c2-baec-523bf506d4dc.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
-        "dc7f34ab-8db9-4f1d-80d6-268e3748575b",
         "slide-0",
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
+        "dc7f34ab-8db9-4f1d-80d6-268e3748575b"
       ],
       "settings": {
         "show_fullscreen": true,
