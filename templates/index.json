@@ -84,8 +84,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_8a5414c1-5c0a-4382-877d-1e0c6acecf6e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_bd9895a7-b399-432a-9ae5-c8469d6d2567.jpg",
-            "apply_overlay": false,
+            "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story.jpg",
+            "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
