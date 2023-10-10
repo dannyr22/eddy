@@ -82,9 +82,10 @@
         },
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall_Lookbook-4.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Fall_Lookbook-4_8fe57d79-d91a-499c-883a-6e7c63560562.jpg",
+            "image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_8a5414c1-5c0a-4382-877d-1e0c6acecf6e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_bd9895a7-b399-432a-9ae5-c8469d6d2567.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
