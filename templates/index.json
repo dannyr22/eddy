@@ -379,22 +379,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "169827252178a5a40e": {
-      "type": "apps",
-      "blocks": {
-        "1afcbc13-683e-447e-8139-ab439fd0c1e5": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1afcbc13-683e-447e-8139-ab439fd0c1e5"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -410,7 +394,6 @@
     "1650798452ef2a3dd2",
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
-    "1686260352f5301557",
-    "169827252178a5a40e"
+    "1686260352f5301557"
   ]
 }
