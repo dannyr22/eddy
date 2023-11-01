@@ -25,8 +25,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/2.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall23-23034-340_9129_copy.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomRight",
+            "apply_overlay": true,
+            "content_position": "bottomCenter",
             "subheading": "",
             "title": "THE HOLIDAY COLLECTION",
             "button_1_text": "",
