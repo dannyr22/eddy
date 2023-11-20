@@ -12,13 +12,19 @@
             "show_taxes_included": false
           }
         },
+        "54182c8f-0761-4ffa-ad9e-e27758be793d": {
+          "type": "text",
+          "settings": {
+            "text": "20% OFF *CODE APPLIED AT CHECKOUT*"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
           }
         },
         "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -82,6 +88,7 @@
       },
       "block_order": [
         "product_meta",
+        "54182c8f-0761-4ffa-ad9e-e27758be793d",
         "description",
         "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac",
         "share_buttons",
@@ -102,7 +109,7 @@
       "type": "apps",
       "blocks": {
         "judgeme_review_widget_4caafb1f": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
@@ -118,7 +125,7 @@
       "type": "apps",
       "blocks": {
         "a40726dd-26ea-4802-9960-8ed473f4c6f3": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
