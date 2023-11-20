@@ -20,6 +20,21 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "mobile_image": "shopify:\/\/shop_images\/3_2ff3aff3-83b8-4a78-85f5-85d5a48b7557.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
+          }
+        },
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5": {
           "type": "image",
           "settings": {
@@ -65,25 +80,10 @@
             "button_2_link": ""
           }
         },
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "mobile_image": "shopify:\/\/shop_images\/3_2ff3aff3-83b8-4a78-85f5-85d5a48b7557.png",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/collections\/all",
-            "button_2_text": "",
-            "button_2_link": "https:\/\/shopeddy.com\/collections\/all"
-          }
-        },
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fall_Lookbook-4_1779f973-b892-4967-8c9e-71450f32f011.jpg",
+            "image": "shopify:\/\/shop_images\/4.png",
             "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story_24cb8a79-e21f-4025-8d59-6cf54392570b.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -97,10 +97,10 @@
         }
       },
       "block_order": [
+        "slide-0",
         "eb0b1c32-3a52-4ec6-a0ca-559e4e803bc5",
         "cf27ba41-e092-4f95-9266-b967b4ed9688",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "slide-0",
         "dc7f34ab-8db9-4f1d-80d6-268e3748575b"
       ],
       "settings": {
