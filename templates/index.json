@@ -23,7 +23,7 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website.jpg",
+            "image": "shopify:\/\/shop_images\/3_a27e5781-65d6-484b-8661-d5ccd7cb8403.jpg",
             "mobile_image": "shopify:\/\/shop_images\/3_e9d4df13-5f2d-47e2-b98f-f40b732ccd8e.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -67,8 +67,9 @@
         },
         "cf27ba41-e092-4f95-9266-b967b4ed9688": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
+            "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-2.png",
             "mobile_image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_750_x_1100_px.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
