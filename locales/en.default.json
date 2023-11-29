@@ -319,7 +319,7 @@
     },
     "labels": {
       "sold_out": "Sold Out",
-      "on_sale": "+ 20% OFF"
+      "on_sale": ""
     },
     "slideshow": {
       "zoom": "Zoom",
