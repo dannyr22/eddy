@@ -30,10 +30,10 @@
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
-            "selector_mode": "dropdown",
+            "selector_mode": "block",
             "show_color_swatch": false,
             "show_color_carousel": false,
-            "size_chart": ""
+            "size_chart": "size-chart-inches"
           }
         },
         "quantity_selector": {
