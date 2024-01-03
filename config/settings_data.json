@@ -66,12 +66,12 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": true,
+          "enable_bar": false,
           "home_page_only": false,
           "background": "#073e0c",
           "text_color": "#ffffff",
-          "content": "✨ IN YOUR GIFTING ERA ✨ EXPLORE THE GIFT GUIDE ✨",
-          "link": "shopify:\/\/collections\/gift-guide"
+          "content": "Explore",
+          "link": "shopify:\/\/collections\/max-coze"
         }
       },
       "header": {
