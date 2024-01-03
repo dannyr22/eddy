@@ -198,12 +198,6 @@
           "position": "right"
         }
       },
-      "4571859552318407796": {
-        "type": "shopify:\/\/apps\/globo-color-swatch\/blocks\/app-embed-block\/4394f710-096c-4021-bbde-8ebb26057c11",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
