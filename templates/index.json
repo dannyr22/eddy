@@ -184,7 +184,7 @@
           "settings": {
             "collection": "new-arrivals",
             "title": "The Latest Collection",
-            "grid_items_count": 4,
+            "grid_items_count": 3,
             "button_text": "Explore Now"
           }
         }
