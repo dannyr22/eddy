@@ -218,9 +218,9 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrivals",
-            "title": "The Latest Collection",
+            "title": "allow us to introduce....",
             "grid_items_count": 3,
-            "button_text": "Explore Now"
+            "button_text": "Explore The Latest"
           }
         }
       },
@@ -276,6 +276,7 @@
     },
     "5f602754-47b5-46d9-9946-f3419ee32656": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Fall23-23104-215_22968_6d8f18d4-d8f2-4cd9-8784-bc9546872c7b.jpg",
