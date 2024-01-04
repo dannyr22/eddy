@@ -37,7 +37,6 @@
         },
         "b18c347d-d305-442d-ab06-9355e4d4b247": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/4_d00035dd-bc09-4dc8-a85a-53ab2a01e6ea.png",
             "apply_overlay": true,
