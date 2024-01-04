@@ -251,6 +251,7 @@
     },
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/FA23_SWATCH-215_022_08c245d3-bc50-46e4-acba-3bc59e5edc06.jpg",
@@ -270,7 +271,7 @@
         "image": "shopify:\/\/shop_images\/Fall23-23034-340_8579_8f8a8ade-1214-4a68-ae3d-1f6a810f21ac.jpg",
         "image_position": "left",
         "content": "",
-        "link_text": "Shop Outerwear",
+        "link_text": "party blazers",
         "link_url": "shopify:\/\/collections\/blazers"
       }
     },
@@ -358,6 +359,64 @@
         "section_size": "preserveRatio",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
+    },
+    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
     }
   },
   "order": [
@@ -374,6 +433,7 @@
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
     "1686260352f5301557",
-    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c"
+    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
+    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d"
   ]
 }
