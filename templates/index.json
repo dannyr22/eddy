@@ -1,13 +1,5 @@
 {
   "sections": {
-    "16507112611d925512": {
-      "type": "background-video",
-      "disabled": true,
-      "settings": {
-        "section_size": "normal",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
-      }
-    },
     "16507112644f91fd39": {
       "type": "custom-html",
       "disabled": true,
@@ -88,6 +80,13 @@
         "subheading": "",
         "title": "",
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
+      }
+    },
+    "16507112611d925512": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "normal",
+        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
     },
     "collection-list": {
@@ -357,10 +356,10 @@
     }
   },
   "order": [
-    "16507112611d925512",
     "16507112644f91fd39",
     "slideshow",
     "1650476318fd586541",
+    "16507112611d925512",
     "collection-list",
     "165079842840a1d8ce",
     "165147731496201e33",
