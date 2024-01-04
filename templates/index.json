@@ -58,32 +58,6 @@
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
-    "165147731496201e33": {
-      "type": "featured-collections",
-      "blocks": {
-        "1651477314e930b694-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "new-arrivals",
-            "title": "The Latest Collection",
-            "grid_items_count": 3,
-            "button_text": "Explore Now"
-          }
-        }
-      },
-      "block_order": [
-        "1651477314e930b694-0"
-      ],
-      "settings": {
-        "title": "",
-        "layout_mode": "grid",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false,
-        "grid_mobile_items_per_row": "2",
-        "grid_desktop_items_per_row": 3
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -200,6 +174,32 @@
         "subheading": "",
         "title": "WELCOME TO EDDY",
         "content": "<p>Pairing elevated California bohemia with global inspiration, EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+      }
+    },
+    "165147731496201e33": {
+      "type": "featured-collections",
+      "blocks": {
+        "1651477314e930b694-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "title": "The Latest Collection",
+            "grid_items_count": 3,
+            "button_text": "Explore Now"
+          }
+        }
+      },
+      "block_order": [
+        "1651477314e930b694-0"
+      ],
+      "settings": {
+        "title": "",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 3
       }
     },
     "1650711244533a7038": {
@@ -321,9 +321,9 @@
     "16507112644f91fd39",
     "slideshow",
     "1650476318fd586541",
-    "165147731496201e33",
     "collection-list",
     "165079842840a1d8ce",
+    "165147731496201e33",
     "1650711244533a7038",
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "1650798452ef2a3dd2",
