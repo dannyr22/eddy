@@ -178,6 +178,7 @@
         "0f04bec7-f9c6-4fd3-a127-c1258f9d3798",
         "4716ea2f-fda4-4eda-9f46-6f9270dfc04a"
       ],
+      "disabled": true,
       "settings": {
         "image_size": "normal",
         "add_spacing": true,
