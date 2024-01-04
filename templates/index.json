@@ -82,13 +82,6 @@
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
-    "16507112611d925512": {
-      "type": "background-video",
-      "settings": {
-        "section_size": "normal",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -283,6 +276,13 @@
         "content": "<p><a href=\"\/collections\/the-wedding-edit\" title=\"Wedding Season Edit\">Shop Wedding Season Looks<\/a><\/p>"
       }
     },
+    "16507112611d925512": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "large",
+        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+      }
+    },
     "shop-the-look": {
       "type": "shop-the-look",
       "blocks": {
@@ -359,7 +359,6 @@
     "16507112644f91fd39",
     "slideshow",
     "1650476318fd586541",
-    "16507112611d925512",
     "collection-list",
     "165079842840a1d8ce",
     "165147731496201e33",
@@ -367,6 +366,7 @@
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "1650798452ef2a3dd2",
     "5f602754-47b5-46d9-9946-f3419ee32656",
+    "16507112611d925512",
     "shop-the-look",
     "1686260352f5301557",
     "fa2a94a6-267e-4d76-b076-54e62b4dfb5c"
