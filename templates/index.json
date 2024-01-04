@@ -314,6 +314,14 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "section_size": "preserveRatio",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+      }
     }
   },
   "order": [
@@ -329,6 +337,7 @@
     "1650798452ef2a3dd2",
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
-    "1686260352f5301557"
+    "1686260352f5301557",
+    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c"
   ]
 }
