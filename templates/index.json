@@ -20,21 +20,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_8a5414c1-5c0a-4382-877d-1e0c6acecf6e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "b18c347d-d305-442d-ab06-9355e4d4b247": {
           "type": "image",
           "settings": {
@@ -50,11 +35,25 @@
             "button_2_link": ""
           }
         },
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fall23-23029-608_23024-608_25417_8a5414c1-5c0a-4382-877d-1e0c6acecf6e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hol-Res23-23009-273_23034-273_4772-4.jpg",
+            "image": "shopify:\/\/shop_images\/5.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -67,8 +66,8 @@
         }
       },
       "block_order": [
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
         "b18c347d-d305-442d-ab06-9355e4d4b247",
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
         "3bae5339-115f-4a7e-a729-0a0435777b25"
       ],
       "settings": {
