@@ -37,8 +37,9 @@
         },
         "b18c347d-d305-442d-ab06-9355e4d4b247": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-2_1b9b1e8a-bd8d-42d3-9c00-6e1e10221b2f.png",
+            "image": "shopify:\/\/shop_images\/4_d00035dd-bc09-4dc8-a85a-53ab2a01e6ea.png",
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -51,6 +52,7 @@
         },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Hol-Res23-23009-273_23034-273_4772-4.jpg",
             "apply_overlay": false,
