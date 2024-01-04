@@ -48,11 +48,26 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "3bae5339-115f-4a7e-a729-0a0435777b25": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hol-Res23-23009-273_23034-273_4772-4.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "b18c347d-d305-442d-ab06-9355e4d4b247"
+        "b18c347d-d305-442d-ab06-9355e4d4b247",
+        "3bae5339-115f-4a7e-a729-0a0435777b25"
       ],
       "settings": {
         "show_fullscreen": true,
