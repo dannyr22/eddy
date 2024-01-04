@@ -20,8 +20,8 @@
             "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "The Valentine's Day Edit",
-            "button_1_text": "Cupid's Favorites Here",
+            "title": "Valentine's Day Edit",
+            "button_1_text": "Cupid's Favorites",
             "button_1_link": "shopify:\/\/collections\/valentines-day",
             "button_2_text": "",
             "button_2_link": ""
@@ -278,6 +278,9 @@
     },
     "16507112611d925512": {
       "type": "background-video",
+      "custom_css": [
+
+      ],
       "settings": {
         "section_size": "large",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
