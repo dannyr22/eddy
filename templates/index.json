@@ -34,10 +34,25 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "b18c347d-d305-442d-ab06-9355e4d4b247": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-2_1b9b1e8a-bd8d-42d3-9c00-6e1e10221b2f.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
+        "b18c347d-d305-442d-ab06-9355e4d4b247"
       ],
       "settings": {
         "show_fullscreen": true,
