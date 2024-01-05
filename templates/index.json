@@ -422,7 +422,6 @@
     },
     "144e5df7-10a1-480d-8456-c4b280768a9b": {
       "type": "featured-video",
-      "disabled": true,
       "settings": {
         "section_size": "large",
         "text_color": "#ffffff",
