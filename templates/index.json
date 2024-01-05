@@ -381,6 +381,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
+            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23031-112-23024-112-4605.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
