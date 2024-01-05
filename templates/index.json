@@ -30,8 +30,8 @@
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
-            "mobile_image": "shopify:\/\/shop_images\/Hol-Res23-23009-273_23034-273_4772-4_8a242b4e-67d5-4f04-b1dd-1dd0d5f7b68b.jpg",
+            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23029-250-23020-250-5241.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Summer23-MtTam-23029-250-23020-250-5241_015c288a-b525-4540-8f50-1b4a75f56d64.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -367,10 +367,11 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
+            "image": "shopify:\/\/shop_images\/Fall23-23104-608_5236_6e307fc1-7771-4c3c-a70d-524f1e360d99.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
-            "title": "Collection name",
+            "title": "DRESSES",
             "button_text": "View products",
             "button_link": "",
             "apply_overlay": true
@@ -379,11 +380,11 @@
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "skirts",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
-            "title": "Collection name",
+            "title": "SKIRTS",
             "button_text": "View products",
             "button_link": "",
             "apply_overlay": true
