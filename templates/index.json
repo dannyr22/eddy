@@ -313,10 +313,10 @@
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-3_ad72f394-2933-446f-bf26-3d5692b6d61b.png",
+        "image": "shopify:\/\/shop_images\/Website_Banners.png",
         "text_color": "#fafafa",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
+        "overlay_color": "#dec8b5",
+        "overlay_opacity": 10,
         "subheading": "",
         "title": "sleepwear",
         "content": "<p><a href=\"\/collections\/sleepwear\" title=\"Sleepwear\">sweet dreams one click away<\/a><\/p>"
@@ -327,7 +327,7 @@
       "settings": {
         "subheading": "",
         "title": "Business + Pleasure",
-        "image": "shopify:\/\/shop_images\/Fall23-23034-340_8579_8f8a8ade-1214-4a68-ae3d-1f6a810f21ac.jpg",
+        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-10086.jpg",
         "image_position": "left",
         "content": "",
         "link_text": "party blazers",
