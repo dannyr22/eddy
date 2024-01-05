@@ -314,7 +314,7 @@
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Website_Banners.png",
-        "text_color": "#000000",
+        "text_color": "#fafafa",
         "overlay_color": "#dec8b5",
         "overlay_opacity": 10,
         "subheading": "",
