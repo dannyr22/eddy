@@ -82,6 +82,66 @@
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
+    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "image": "shopify:\/\/shop_images\/Fall23-23104-608_5236_6e307fc1-7771-4c3c-a70d-524f1e360d99.jpg",
+            "image_alignment": "top left",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "DRESSES",
+            "button_text": "explore",
+            "button_link": "shopify:\/\/collections\/dresses",
+            "apply_overlay": false
+          }
+        },
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "skirts",
+            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23031-112-23024-112-4605.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Skirts",
+            "button_text": "Explore",
+            "button_link": "shopify:\/\/collections\/skirts",
+            "apply_overlay": false
+          }
+        },
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Carmel_22080_5137.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "SWEATERS",
+            "button_text": "explore",
+            "button_link": "shopify:\/\/collections\/blazers",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3"
+      ],
+      "settings": {
+        "image_size": "large",
+        "add_spacing": false,
+        "expand_collection": true,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
     "165079842840a1d8ce": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -359,73 +419,13 @@
         "section_size": "preserveRatio",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
-    },
-    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
-      "type": "collection-list",
-      "blocks": {
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Fall23-23104-608_5236_6e307fc1-7771-4c3c-a70d-524f1e360d99.jpg",
-            "image_alignment": "top left",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "DRESSES",
-            "button_text": "explore",
-            "button_link": "shopify:\/\/collections\/dresses",
-            "apply_overlay": false
-          }
-        },
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23031-112-23024-112-4605.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Skirts",
-            "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/skirts",
-            "apply_overlay": false
-          }
-        },
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Carmel_22080_5137.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "SWEATERS",
-            "button_text": "explore",
-            "button_link": "shopify:\/\/collections\/blazers",
-            "apply_overlay": true
-          }
-        }
-      },
-      "block_order": [
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_size": "large",
-        "add_spacing": false,
-        "expand_collection": true,
-        "stack_on_mobile": true,
-        "text_color": "#ffffff",
-        "button_color": "#363636"
-      }
     }
   },
   "order": [
     "16507112644f91fd39",
     "slideshow",
     "1650476318fd586541",
+    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
     "165079842840a1d8ce",
     "16507112611d925512",
     "collection-list",
@@ -436,7 +436,6 @@
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
     "1686260352f5301557",
-    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
-    "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d"
+    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c"
   ]
 }
