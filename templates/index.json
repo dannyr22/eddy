@@ -368,13 +368,13 @@
           "settings": {
             "collection": "dresses",
             "image": "shopify:\/\/shop_images\/Fall23-23104-608_5236_6e307fc1-7771-4c3c-a70d-524f1e360d99.jpg",
-            "image_alignment": "center center",
+            "image_alignment": "top left",
             "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "DRESSES",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
+            "subheading": "",
+            "title": "",
+            "button_text": "DRESSES",
+            "button_link": "shopify:\/\/collections\/dresses",
+            "apply_overlay": false
           }
         },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
