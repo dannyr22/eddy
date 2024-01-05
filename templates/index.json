@@ -345,6 +345,7 @@
     },
     "165079842840a1d8ce": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
