@@ -311,16 +311,15 @@
     },
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-2_25295246-5588-4e4e-a675-48c873310bc9.png",
-        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/Ivory_and_Green_New_Arrival_Promo_Fashion_Video_Your_Story_Website_-3.png",
+        "text_color": "#fafafa",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
         "subheading": "",
         "title": "sleepwear",
-        "content": "<p>sweet dreams start here<\/p>"
+        "content": "<p>sweet dreams one click away<\/p>"
       }
     },
     "1650798452ef2a3dd2": {
