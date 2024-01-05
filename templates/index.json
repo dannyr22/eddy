@@ -151,16 +151,6 @@
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
-    "16507112611d925512": {
-      "type": "background-video",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "section_size": "large",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
-      }
-    },
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -172,6 +162,16 @@
         "subheading": "",
         "title": "first came the custom designed floral wedding...",
         "content": "<p><a href=\"\/pages\/about-us\" title=\"About us\">learn more on how Eddy began<\/a><\/p>"
+      }
+    },
+    "16507112611d925512": {
+      "type": "background-video",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_size": "large",
+        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
     },
     "collection-list": {
@@ -460,8 +460,8 @@
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
     "1650476318fd586541",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
-    "16507112611d925512",
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
+    "16507112611d925512",
     "collection-list",
     "165147731496201e33",
     "1650711244533a7038",
