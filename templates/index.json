@@ -385,8 +385,8 @@
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "",
-            "button_text": "SKIRTS",
+            "title": "Skirts",
+            "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": false
           }
