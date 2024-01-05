@@ -419,6 +419,17 @@
         "section_size": "preserveRatio",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
+    },
+    "144e5df7-10a1-480d-8456-c4b280768a9b": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "",
+        "title": "WELCOME TO EDDY",
+        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+      }
     }
   },
   "order": [
@@ -436,6 +447,7 @@
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
     "1686260352f5301557",
-    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c"
+    "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
+    "144e5df7-10a1-480d-8456-c4b280768a9b"
   ]
 }
