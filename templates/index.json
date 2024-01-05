@@ -133,17 +133,17 @@
         "button_color": "#dec8b5"
       }
     },
-    "165079842840a1d8ce": {
+    "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
+        "image": "shopify:\/\/shop_images\/Website_Banners_copy.png",
         "text_color": "#ffffff",
         "overlay_color": "#303030",
         "overlay_opacity": 17,
         "subheading": "",
-        "title": "WELCOME TO EDDY",
-        "content": "<p>Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+        "title": "first came a custom floral filled wedding...",
+        "content": "<p>Learn More On The Spark Of Eddy.<\/p>"
       }
     },
     "1650476318fd586541": {
@@ -343,6 +343,19 @@
         "link_url": "shopify:\/\/collections\/blazers"
       }
     },
+    "165079842840a1d8ce": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#303030",
+        "overlay_opacity": 17,
+        "subheading": "",
+        "title": "WELCOME TO EDDY",
+        "content": "<p>Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+      }
+    },
     "5f602754-47b5-46d9-9946-f3419ee32656": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -445,7 +458,7 @@
     "16507112644f91fd39",
     "slideshow",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
-    "165079842840a1d8ce",
+    "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "1650476318fd586541",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "16507112611d925512",
@@ -454,6 +467,7 @@
     "1650711244533a7038",
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "1650798452ef2a3dd2",
+    "165079842840a1d8ce",
     "5f602754-47b5-46d9-9946-f3419ee32656",
     "shop-the-look",
     "1686260352f5301557",
