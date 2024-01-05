@@ -148,11 +148,11 @@
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
         "text_color": "#ffffff",
-        "overlay_color": "#595959",
-        "overlay_opacity": 22,
+        "overlay_color": "#303030",
+        "overlay_opacity": 17,
         "subheading": "",
         "title": "WELCOME TO EDDY",
-        "content": "<p>Pairing elevated California bohemia with global inspiration, EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+        "content": "<p>EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside. <\/p>"
       }
     },
     "16507112611d925512": {
@@ -422,6 +422,7 @@
     },
     "144e5df7-10a1-480d-8456-c4b280768a9b": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "text_color": "#ffffff",
