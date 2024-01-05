@@ -146,6 +146,14 @@
         "content": "<p>EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside. <\/p>"
       }
     },
+    "1650476318fd586541": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">it all started with love &amp; custom florals... learn more on the spark that started EDDY here<\/marquee>"
+      }
+    },
     "6791590f-decb-4f88-b7ff-37c29bb1ceba": {
       "type": "custom-html",
       "disabled": true,
@@ -163,14 +171,6 @@
       "settings": {
         "section_size": "large",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
-      }
-    },
-    "1650476318fd586541": {
-      "type": "custom-html",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">it all started with love &amp; custom florals... learn more on the spark that started EDDY here<\/marquee>"
       }
     },
     "collection-list": {
@@ -445,9 +445,9 @@
     "slideshow",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
     "165079842840a1d8ce",
+    "1650476318fd586541",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "16507112611d925512",
-    "1650476318fd586541",
     "collection-list",
     "165147731496201e33",
     "1650711244533a7038",
