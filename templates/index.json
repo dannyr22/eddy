@@ -73,15 +73,6 @@
         "button_background": "#ffffff"
       }
     },
-    "1650476318fd586541": {
-      "type": "custom-html",
-      "disabled": true,
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
-      }
-    },
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
       "type": "collection-list",
       "blocks": {
@@ -163,6 +154,24 @@
       "settings": {
         "section_size": "large",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+      }
+    },
+    "1650476318fd586541": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">it all started with love &amp; custom florals... learn more on the spark that started EDDY here<\/marquee>"
+      }
+    },
+    "6791590f-decb-4f88-b7ff-37c29bb1ceba": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
     "collection-list": {
@@ -435,10 +444,11 @@
   "order": [
     "16507112644f91fd39",
     "slideshow",
-    "1650476318fd586541",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
     "165079842840a1d8ce",
     "16507112611d925512",
+    "1650476318fd586541",
+    "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "collection-list",
     "165147731496201e33",
     "1650711244533a7038",
