@@ -82,6 +82,29 @@
         "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
       }
     },
+    "165079842840a1d8ce": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#595959",
+        "overlay_opacity": 22,
+        "subheading": "",
+        "title": "WELCOME TO EDDY",
+        "content": "<p>Pairing elevated California bohemia with global inspiration, EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+      }
+    },
+    "16507112611d925512": {
+      "type": "background-video",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_size": "large",
+        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -186,29 +209,6 @@
         "stack_on_mobile": true,
         "text_color": "#ffffff",
         "button_color": "#363636"
-      }
-    },
-    "16507112611d925512": {
-      "type": "background-video",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "section_size": "large",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
-      }
-    },
-    "165079842840a1d8ce": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
-        "text_color": "#ffffff",
-        "overlay_color": "#595959",
-        "overlay_opacity": 22,
-        "subheading": "",
-        "title": "WELCOME TO EDDY",
-        "content": "<p>Pairing elevated California bohemia with global inspiration, EDDY is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
       }
     },
     "165147731496201e33": {
@@ -371,8 +371,8 @@
             "image_alignment": "top left",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "dresses",
-            "button_text": "",
+            "title": "DRESSES",
+            "button_text": "shop dresses",
             "button_link": "shopify:\/\/collections\/dresses",
             "apply_overlay": false
           }
@@ -412,7 +412,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image_size": "normal",
+        "image_size": "large",
         "add_spacing": false,
         "expand_collection": true,
         "stack_on_mobile": true,
@@ -425,9 +425,9 @@
     "16507112644f91fd39",
     "slideshow",
     "1650476318fd586541",
-    "collection-list",
-    "16507112611d925512",
     "165079842840a1d8ce",
+    "16507112611d925512",
+    "collection-list",
     "165147731496201e33",
     "1650711244533a7038",
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",

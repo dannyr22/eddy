@@ -28,6 +28,7 @@
     "base_text_font_size": 14,
     "color_swatch_config": "Oatmeal\/Ruby Floral\/Beading:oatmeal.jpg\nPale Magenta & Indigo Floral:palemagenta.jpg\nAmber & Fuschia Floral:amber.jpg\nIvory & Cornflower Floral:ivory.jpg\nPrussian Blue\/Placed Floral Embroidery:prussianblue.jpg\nTeal & Cerise Floral:tealcerise.jpg\nMidnight\/Cream Floral Embroidery:midnightwhite.jpg\nLapis & Laguna Floral:lapis.jpg",
     "show_page_transition": false,
+    "show_button_transition": true,
     "search_mode": "product,article",
     "product_show_price_on_hover": false,
     "product_show_secondary_image": true,
