@@ -135,11 +135,11 @@
       ],
       "settings": {
         "image_size": "large",
-        "add_spacing": true,
+        "add_spacing": false,
         "expand_collection": true,
         "stack_on_mobile": true,
         "text_color": "#ffffff",
-        "button_color": "#363636"
+        "button_color": "#dec8b5"
       }
     },
     "165079842840a1d8ce": {
