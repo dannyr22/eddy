@@ -395,12 +395,13 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/Carmel_22080_5137.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "SWEATERS",
+            "button_text": "explore",
+            "button_link": "shopify:\/\/collections\/blazers",
             "apply_overlay": true
           }
         }
