@@ -133,19 +133,6 @@
         "button_color": "#dec8b5"
       }
     },
-    "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Website_Banners_copy.png",
-        "text_color": "#ffffff",
-        "overlay_color": "#303030",
-        "overlay_opacity": 17,
-        "subheading": "",
-        "title": "first came a custom designed floral wedding...",
-        "content": "<p>learn more on how it all began<\/p>"
-      }
-    },
     "1650476318fd586541": {
       "type": "custom-html",
       "disabled": true,
@@ -172,6 +159,19 @@
       "settings": {
         "section_size": "large",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+      }
+    },
+    "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Website_Banners_copy.png",
+        "text_color": "#ffffff",
+        "overlay_color": "#303030",
+        "overlay_opacity": 17,
+        "subheading": "",
+        "title": "first came a custom designed floral wedding...",
+        "content": "<p>learn more on how it all began<\/p>"
       }
     },
     "collection-list": {
@@ -458,10 +458,10 @@
     "16507112644f91fd39",
     "slideshow",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
-    "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "1650476318fd586541",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "16507112611d925512",
+    "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "collection-list",
     "165147731496201e33",
     "1650711244533a7038",
