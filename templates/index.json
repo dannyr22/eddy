@@ -15,14 +15,14 @@
         "b18c347d-d305-442d-ab06-9355e4d4b247": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_d00035dd-bc09-4dc8-a85a-53ab2a01e6ea.png",
+            "image": "shopify:\/\/shop_images\/Carmel_23009_23011_GROUP_36936.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Fall23-23095-418_23102-418_22497_caa6cbfc-906d-4a2b-aae1-e0e8605d493e.jpg",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Valentine's Day Edit",
-            "button_1_text": "Cupid's Favorites",
-            "button_1_link": "shopify:\/\/collections\/valentines-day",
+            "title": "Before The Bloom",
+            "button_1_text": "Explore Pre-Spring",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
