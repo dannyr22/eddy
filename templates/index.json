@@ -89,7 +89,7 @@
             "title": "DRESSES",
             "button_text": "explore",
             "button_link": "shopify:\/\/collections\/dresses",
-            "apply_overlay": false
+            "apply_overlay": true
           }
         },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
@@ -103,7 +103,7 @@
             "title": "Skirts",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
-            "apply_overlay": false
+            "apply_overlay": true
           }
         }
       },
