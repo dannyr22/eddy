@@ -82,9 +82,9 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Fall23-23104-608_5236_6e307fc1-7771-4c3c-a70d-524f1e360d99.jpg",
-            "image_alignment": "top left",
-            "content_position": "bottomLeft",
+            "image": "shopify:\/\/shop_images\/Carmel_23010-501_5051_2.jpg",
+            "image_alignment": "top center",
+            "content_position": "bottomRight",
             "subheading": "",
             "title": "DRESSES",
             "button_text": "explore",
