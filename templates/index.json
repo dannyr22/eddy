@@ -96,7 +96,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Summer23-MtTam-23031-112-23024-112-4605.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23024-003_23032-003_2933-4.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -105,26 +105,11 @@
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": false
           }
-        },
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Carmel_22080_5137_95f7b095-5a1a-4a53-a217-a3ead91d89f8.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "SWEATERS",
-            "button_text": "explore",
-            "button_link": "shopify:\/\/collections\/blazers",
-            "apply_overlay": true
-          }
         }
       },
       "block_order": [
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-3"
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
       ],
       "settings": {
         "image_size": "large",
