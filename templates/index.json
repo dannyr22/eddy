@@ -45,9 +45,8 @@
         },
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23010-501_5051.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23005-003_23051-501_1509.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
@@ -89,7 +88,7 @@
             "title": "DRESSES",
             "button_text": "explore",
             "button_link": "shopify:\/\/collections\/dresses",
-            "apply_overlay": true
+            "apply_overlay": false
           }
         },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
@@ -103,7 +102,7 @@
             "title": "Skirts",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
-            "apply_overlay": true
+            "apply_overlay": false
           }
         }
       },
