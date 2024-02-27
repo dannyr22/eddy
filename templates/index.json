@@ -27,6 +27,19 @@
             "button_2_link": ""
           }
         },
+        "image_AVzNfp": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "disabled": true,
@@ -47,7 +60,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Carmel_23005-003_23051-501_1509.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Turquise_Simple_Summer_Memories_Instagram_Story.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23005-003_23051-501_1509_a91e6ff1-19d9-4f83-9667-835eb3e8b764.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -61,6 +74,7 @@
       },
       "block_order": [
         "b18c347d-d305-442d-ab06-9355e4d4b247",
+        "image_AVzNfp",
         "3bae5339-115f-4a7e-a729-0a0435777b25",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
       ],
@@ -95,7 +109,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Carmel_23024-003_23032-003_2933-4.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23024-003_23032-003_2933-4_copy.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
