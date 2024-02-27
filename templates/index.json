@@ -27,25 +27,11 @@
             "button_2_link": ""
           }
         },
-        "image_AVzNfp": {
-          "type": "image",
-          "settings": {
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Slide title",
-            "title": "Tell your story",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23009-601_35841.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Summer23-MtTam-23029-250-23020-250-5241_015c288a-b525-4540-8f50-1b4a75f56d64.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23091-601_36225.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_ae021ce4-e172-486f-93d8-879589f25aca.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -74,7 +60,6 @@
       },
       "block_order": [
         "b18c347d-d305-442d-ab06-9355e4d4b247",
-        "image_AVzNfp",
         "3bae5339-115f-4a7e-a729-0a0435777b25",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
       ],
