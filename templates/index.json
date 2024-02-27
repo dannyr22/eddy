@@ -291,6 +291,20 @@
         "grid_desktop_items_per_row": 3
       }
     },
+    "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/MtTam_23038-107_7160.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#dec8b5",
+        "overlay_opacity": 0,
+        "subheading": "",
+        "title": "",
+        "content": "<p><a href=\"\/collections\/sleepwear\" title=\"Sleepwear\">SLEEPWEAR<\/a><\/p>"
+      }
+    },
     "collection_list_qFtyqT": {
       "type": "collection-list",
       "blocks": {
@@ -339,6 +353,7 @@
         "collection_PRPMVG",
         "collection_KEfrTj"
       ],
+      "disabled": true,
       "settings": {
         "image_size": "small",
         "add_spacing": true,
@@ -358,19 +373,6 @@
         "content": "",
         "link_text": "getaway packing list",
         "link_url": "shopify:\/\/collections\/the-resort-edit"
-      }
-    },
-    "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "section_size": "large",
-        "image": "shopify:\/\/shop_images\/MtTam_23038-107_7160.jpg",
-        "text_color": "#fafafa",
-        "overlay_color": "#dec8b5",
-        "overlay_opacity": 0,
-        "subheading": "",
-        "title": "sleepwear",
-        "content": ""
       }
     },
     "1650798452ef2a3dd2": {
@@ -507,9 +509,9 @@
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "collection-list",
     "165147731496201e33",
+    "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "collection_list_qFtyqT",
     "1650711244533a7038",
-    "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "1650798452ef2a3dd2",
     "165079842840a1d8ce",
     "5f602754-47b5-46d9-9946-f3419ee32656",
