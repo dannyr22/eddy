@@ -141,9 +141,9 @@
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Website_Banners_copy_9dd9d45e-fab1-44d7-8741-5e688a5d7d91.png",
-        "text_color": "#fafafa",
+        "text_color": "#000000",
         "overlay_color": "#faf2f8",
-        "overlay_opacity": 34,
+        "overlay_opacity": 36,
         "subheading": "",
         "title": "it all started with the custom designed floral wedding...",
         "content": "<p><a href=\"\/pages\/about-us\" title=\"About us\">learn more about how Eddy began<\/a><\/p>"
