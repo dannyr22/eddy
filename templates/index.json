@@ -76,18 +76,18 @@
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
       "type": "collection-list",
       "blocks": {
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
+        "collection_CEQgDG": {
           "type": "collection",
           "settings": {
-            "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Carmel_23010-501_5051_2.jpg",
-            "image_alignment": "top center",
-            "content_position": "bottomRight",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
             "subheading": "",
-            "title": "DRESSES",
-            "button_text": "explore",
-            "button_link": "shopify:\/\/collections\/dresses",
-            "apply_overlay": false
+            "title": "Blazers",
+            "button_text": "Explore",
+            "button_link": "",
+            "apply_overlay": true
           }
         },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
@@ -103,11 +103,26 @@
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": false
           }
+        },
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_02dce5e3-cc6d-4812-a9cb-05706d41b3c8.jpg",
+            "image_alignment": "top center",
+            "content_position": "middleCenter",
+            "subheading": "",
+            "title": "DRESSES",
+            "button_text": "explore",
+            "button_link": "shopify:\/\/collections\/dresses",
+            "apply_overlay": false
+          }
         }
       },
       "block_order": [
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
+        "collection_CEQgDG",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2",
+        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1"
       ],
       "settings": {
         "image_size": "large",
