@@ -127,7 +127,7 @@
       "settings": {
         "image_size": "large",
         "add_spacing": false,
-        "expand_collection": true,
+        "expand_collection": false,
         "stack_on_mobile": true,
         "text_color": "#ffffff",
         "button_color": "#dec8b5"
