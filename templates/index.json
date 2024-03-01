@@ -12,32 +12,17 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "b18c347d-d305-442d-ab06-9355e4d4b247": {
+        "image_68DhqF": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/carmel_23009_23011_group_36907_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/carmel_23009_23011_group_36907_2_8931eaf9-e13b-47dd-bca9-d8d494d073b2.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Before The Bloom",
-            "button_1_text": "Explore Pre-Spring",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "3bae5339-115f-4a7e-a729-0a0435777b25": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_8810cc70-9814-42e4-ba2d-c412f9250dc9.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_ae021ce4-e172-486f-93d8-879589f25aca.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_52511c02-771c-444f-bd8c-6f95e0d63b4f.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_b89a7709-998c-4d78-a3e8-3bf5707fddca.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
-            "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/products\/ellen-ruffled-wrap-dress-french-blue-punch-bouquet-floral?_pos=3&_sid=970ad0b02&_ss=r",
+            "button_1_text": "EXPLORE PRE-SPRING",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -57,27 +42,26 @@
             "button_2_link": ""
           }
         },
-        "image_68DhqF": {
+        "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_52511c02-771c-444f-bd8c-6f95e0d63b4f.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_b89a7709-998c-4d78-a3e8-3bf5707fddca.jpg",
+            "image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_8810cc70-9814-42e4-ba2d-c412f9250dc9.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_ae021ce4-e172-486f-93d8-879589f25aca.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
-            "button_1_text": "EXPLORE PRE-SPRING",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_text": "",
+            "button_1_link": "https:\/\/shopeddy.com\/products\/ellen-ruffled-wrap-dress-french-blue-punch-bouquet-floral?_pos=3&_sid=970ad0b02&_ss=r",
             "button_2_text": "",
             "button_2_link": ""
           }
         }
       },
       "block_order": [
-        "b18c347d-d305-442d-ab06-9355e4d4b247",
-        "3bae5339-115f-4a7e-a729-0a0435777b25",
+        "image_68DhqF",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_68DhqF"
+        "3bae5339-115f-4a7e-a729-0a0435777b25"
       ],
       "settings": {
         "show_fullscreen": true,
