@@ -76,20 +76,6 @@
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
       "type": "collection-list",
       "blocks": {
-        "collection_CEQgDG": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Blazers",
-            "button_text": "Explore",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1": {
           "type": "collection",
           "settings": {
@@ -102,6 +88,20 @@
             "button_text": "explore",
             "button_link": "shopify:\/\/collections\/dresses",
             "apply_overlay": false
+          }
+        },
+        "collection_CEQgDG": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Blazers",
+            "button_text": "Explore",
+            "button_link": "",
+            "apply_overlay": true
           }
         },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
@@ -120,13 +120,13 @@
         }
       },
       "block_order": [
-        "collection_CEQgDG",
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-1",
+        "collection_CEQgDG",
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
       ],
       "settings": {
         "image_size": "large",
-        "add_spacing": false,
+        "add_spacing": true,
         "expand_collection": true,
         "stack_on_mobile": true,
         "text_color": "#ffffff",
