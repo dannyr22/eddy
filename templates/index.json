@@ -64,10 +64,10 @@
             "mobile_image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_b89a7709-998c-4d78-a3e8-3bf5707fddca.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
-            "subheading": "Slide title",
-            "title": "Tell your story",
-            "button_1_text": "",
-            "button_1_link": "",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "EXPLORE PRE-SPRING",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
