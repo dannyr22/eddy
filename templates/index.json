@@ -69,7 +69,7 @@
         "autoplay": true,
         "cycle_speed": 4,
         "text_color": "#ffffff",
-        "button_color": "#363636",
+        "button_color": "#dec8b5",
         "button_background": "#ffffff"
       }
     },
