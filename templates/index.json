@@ -272,7 +272,7 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrivals",
-            "title": "allow us to introduce....",
+            "title": "allow us to introduce...",
             "grid_items_count": 3,
             "button_text": "Explore The Latest"
           }
