@@ -93,12 +93,12 @@
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Carmel_23024-003_23032-003_2933-4_copy.jpg",
+            "collection": "dresses",
+            "image": "shopify:\/\/shop_images\/24013-108-37372_5d3fcdaa-9201-47a1-b5d3-044c3350e046.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Skirts",
+            "title": "Dresses",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": false
