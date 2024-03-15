@@ -512,6 +512,36 @@
         "title": "WELCOME TO EDDY",
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
+    },
+    "collection_list_jAHRGM": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_piKWFy": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/24036-188-36005_a9962933-1bba-47d2-bca4-bd3e4d07ba5d.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_text": "Explore",
+            "button_link": "shopify:\/\/products\/janean-quilted-reversible-midi-jacket-sugar-salsa",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_piKWFy"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": false,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
     }
   },
   "order": [
@@ -533,6 +563,7 @@
     "shop-the-look",
     "1686260352f5301557",
     "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
-    "144e5df7-10a1-480d-8456-c4b280768a9b"
+    "144e5df7-10a1-480d-8456-c4b280768a9b",
+    "collection_list_jAHRGM"
   ]
 }
