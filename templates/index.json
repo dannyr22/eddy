@@ -529,10 +529,24 @@
             "button_link": "shopify:\/\/products\/janean-quilted-reversible-midi-jacket-sugar-salsa",
             "apply_overlay": false
           }
+        },
+        "collection_FFk9EY": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_text": "Party Blazers",
+            "button_link": "shopify:\/\/collections\/party-blazers",
+            "apply_overlay": true
+          }
         }
       },
       "block_order": [
-        "collection_piKWFy"
+        "collection_piKWFy",
+        "collection_FFk9EY"
       ],
       "settings": {
         "image_size": "normal",
