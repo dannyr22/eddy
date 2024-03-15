@@ -538,10 +538,10 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/24005-418-31416.jpg",
             "image_alignment": "bottom left",
-            "content_position": "bottomCenter",
+            "content_position": "bottomLeft",
             "subheading": "",
-            "title": "",
-            "button_text": "Skirts",
+            "title": "Skirts",
+            "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": false
           }
