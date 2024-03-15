@@ -111,7 +111,7 @@
       ],
       "settings": {
         "image_size": "large",
-        "add_spacing": true,
+        "add_spacing": false,
         "expand_collection": true,
         "stack_on_mobile": true,
         "text_color": "#ffffff",
