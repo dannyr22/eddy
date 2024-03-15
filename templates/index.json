@@ -12,11 +12,11 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "image_68DhqF": {
+        "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
+            "image": "shopify:\/\/shop_images\/24002-108-34782_64dc6a54-2d67-4877-949f-ff6ac8426196.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24002-108-34782_2cdea529-1f18-4a8d-ac04-f337913d6711.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
@@ -42,26 +42,26 @@
             "button_2_link": ""
           }
         },
-        "3bae5339-115f-4a7e-a729-0a0435777b25": {
+        "image_68DhqF": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24002-108-34782_64dc6a54-2d67-4877-949f-ff6ac8426196.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24002-108-34782_2cdea529-1f18-4a8d-ac04-f337913d6711.jpg",
+            "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/tops",
+            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
         }
       },
       "block_order": [
-        "image_68DhqF",
+        "3bae5339-115f-4a7e-a729-0a0435777b25",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "3bae5339-115f-4a7e-a729-0a0435777b25"
+        "image_68DhqF"
       ],
       "settings": {
         "show_fullscreen": true,
@@ -80,7 +80,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
+            "image": "shopify:\/\/shop_images\/24006-456-33324.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -395,7 +395,7 @@
       "settings": {
         "subheading": "",
         "title": "Business + Pleasure",
-        "image": "shopify:\/\/shop_images\/Eddy-Italy-Fall22-10086.jpg",
+        "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
         "image_position": "left",
         "content": "",
         "link_text": "party blazers",
