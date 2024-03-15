@@ -174,15 +174,6 @@
         "settings": {
         }
       },
-      "12608439564960700138": {
-        "type": "shopify:\/\/apps\/sezzle-widget\/blocks\/widget-embed\/f3a53793-e118-4764-a86b-a79bfedb0d5f",
-        "disabled": false,
-        "settings": {
-          "heading": "Sezzle Widget",
-          "font_size": 14,
-          "font_family": "Mono"
-        }
-      },
       "11468047240823483236": {
         "type": "shopify:\/\/apps\/sezzle-widget\/blocks\/checkout-embed\/f3a53793-e118-4764-a86b-a79bfedb0d5f",
         "disabled": false,
@@ -209,6 +200,15 @@
           "button_horizontal_position": "bottom_left",
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      },
+      "12608439564960700138": {
+        "type": "shopify:\/\/apps\/sezzle-widget\/blocks\/widget-embed\/f3a53793-e118-4764-a86b-a79bfedb0d5f",
+        "disabled": false,
+        "settings": {
+          "heading": "Sezzle Widget",
+          "font_size": 10.5,
+          "font_family": "Futura, sans-serif"
         }
       }
     }
