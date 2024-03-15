@@ -16,12 +16,12 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23029-601_23024-601_5629_b89a7709-998c-4d78-a3e8-3bf5707fddca.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
             "apply_overlay": false,
-            "content_position": "bottomLeft",
+            "content_position": "bottomRight",
             "subheading": "",
-            "title": "",
-            "button_1_text": "SPRING HAS BLOOMED",
+            "title": "SPRING HAS ARRIVED",
+            "button_1_text": "EXPLORE",
             "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
