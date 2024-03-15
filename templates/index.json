@@ -18,10 +18,10 @@
             "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
             "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
             "apply_overlay": false,
-            "content_position": "bottomRight",
+            "content_position": "middleRight",
             "subheading": "",
-            "title": "SPRING HAS ARRIVED",
-            "button_1_text": "EXPLORE",
+            "title": "SPRING",
+            "button_1_text": "blooming now",
             "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
