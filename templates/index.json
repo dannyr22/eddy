@@ -30,14 +30,14 @@
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carmel_23005-003_23051-501_1509.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23005-003_23051-501_1509_a91e6ff1-19d9-4f83-9667-835eb3e8b764.jpg",
+            "image": "shopify:\/\/shop_images\/24006-456-33572_28df8775-6a2d-4250-b9ec-2f8ebb95590d.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24006-456-33572_1336b8f2-8a15-4698-8edf-4b86f12dcb9e.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "https:\/\/shopeddy.com\/products\/copy-of-nancy-reversible-quilted-jacket?_pos=1&_sid=0288a34e7&_ss=r",
+            "button_1_link": "shopify:\/\/collections\/party-blazers",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -90,6 +90,20 @@
             "apply_overlay": true
           }
         },
+        "collection_K8nj8i": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Skirts",
+            "button_text": "Explore",
+            "button_link": "shopify:\/\/collections\/skirts",
+            "apply_overlay": true
+          }
+        },
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
           "type": "collection",
           "settings": {
@@ -107,6 +121,7 @@
       },
       "block_order": [
         "collection_CEQgDG",
+        "collection_K8nj8i",
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
       ],
       "settings": {
