@@ -46,13 +46,13 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/24002-108-34782_64dc6a54-2d67-4877-949f-ff6ac8426196.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Carmel_23091-601_36225_ae021ce4-e172-486f-93d8-879589f25aca.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24002-108-34782_2cdea529-1f18-4a8d-ac04-f337913d6711.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
             "title": "",
-            "button_1_text": "DRESSES IN BLOOM",
-            "button_1_link": "shopify:\/\/collections\/dresses",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/tops",
             "button_2_text": "",
             "button_2_link": ""
           }
