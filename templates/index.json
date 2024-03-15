@@ -556,8 +556,8 @@
         "add_spacing": false,
         "expand_collection": true,
         "stack_on_mobile": true,
-        "text_color": "#ffffff",
-        "button_color": "#363636"
+        "text_color": "#dec8b5",
+        "button_color": "#ffffff"
       }
     }
   },
