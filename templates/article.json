@@ -27,7 +27,7 @@
       ],
       "settings": {
         "title": "Explore Molly's Favorite",
-        "collection": "",
+        "collection": "mollys-favorites",
         "grid_items_count": 6,
         "show_product_info": true,
         "show_vendor": false,
