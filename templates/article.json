@@ -13,18 +13,6 @@
     },
     "shop-now": {
       "type": "shop-now",
-      "blocks": {
-        "quote": {
-          "type": "quote",
-          "settings": {
-            "content": "<p>You can use this element to add a quote, content...<\/p>",
-            "author": ""
-          }
-        }
-      },
-      "block_order": [
-        "quote"
-      ],
       "settings": {
         "title": "Explore Molly's Favorite",
         "collection": "mollys-favorites",
