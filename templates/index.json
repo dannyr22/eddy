@@ -103,7 +103,7 @@
             "title": "Blazers",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/party-blazers",
-            "apply_overlay": true
+            "apply_overlay": false
           }
         },
         "collection_K8nj8i": {
