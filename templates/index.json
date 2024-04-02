@@ -89,6 +89,32 @@
         "button_background": "#ffffff"
       }
     },
+    "165147731496201e33": {
+      "type": "featured-collections",
+      "blocks": {
+        "1651477314e930b694-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "title": "allow us to introduce...",
+            "grid_items_count": 3,
+            "button_text": "Shop The Spring Collection"
+          }
+        }
+      },
+      "block_order": [
+        "1651477314e930b694-0"
+      ],
+      "settings": {
+        "title": "",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 3
+      }
+    },
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d": {
       "type": "collection-list",
       "blocks": {
@@ -139,6 +165,51 @@
         "collection_CEQgDG",
         "collection_K8nj8i",
         "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
+      ],
+      "settings": {
+        "image_size": "large",
+        "add_spacing": false,
+        "expand_collection": true,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#dec8b5"
+      }
+    },
+    "collection_list_jAHRGM": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_piKWFy": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/24036-188-36005_a9962933-1bba-47d2-bca4-bd3e4d07ba5d.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "jackets",
+            "button_text": "Explore",
+            "button_link": "shopify:\/\/products\/janean-quilted-reversible-midi-jacket-sugar-salsa",
+            "apply_overlay": false
+          }
+        },
+        "collection_FFk9EY": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/24005-418-31416.jpg",
+            "image_alignment": "bottom left",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Skirts",
+            "button_text": "Explore",
+            "button_link": "shopify:\/\/collections\/skirts",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_piKWFy",
+        "collection_FFk9EY"
       ],
       "settings": {
         "image_size": "large",
@@ -295,32 +366,6 @@
         "stack_on_mobile": true,
         "text_color": "#ffffff",
         "button_color": "#363636"
-      }
-    },
-    "165147731496201e33": {
-      "type": "featured-collections",
-      "blocks": {
-        "1651477314e930b694-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "new-arrivals",
-            "title": "allow us to introduce...",
-            "grid_items_count": 3,
-            "button_text": "Shop The Spring Collection"
-          }
-        }
-      },
-      "block_order": [
-        "1651477314e930b694-0"
-      ],
-      "settings": {
-        "title": "",
-        "layout_mode": "grid",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false,
-        "grid_mobile_items_per_row": "2",
-        "grid_desktop_items_per_row": 3
       }
     },
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1": {
@@ -532,51 +577,6 @@
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
     },
-    "collection_list_jAHRGM": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_piKWFy": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/24036-188-36005_a9962933-1bba-47d2-bca4-bd3e4d07ba5d.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "jackets",
-            "button_text": "Explore",
-            "button_link": "shopify:\/\/products\/janean-quilted-reversible-midi-jacket-sugar-salsa",
-            "apply_overlay": false
-          }
-        },
-        "collection_FFk9EY": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/24005-418-31416.jpg",
-            "image_alignment": "bottom left",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Skirts",
-            "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/skirts",
-            "apply_overlay": false
-          }
-        }
-      },
-      "block_order": [
-        "collection_piKWFy",
-        "collection_FFk9EY"
-      ],
-      "settings": {
-        "image_size": "large",
-        "add_spacing": false,
-        "expand_collection": true,
-        "stack_on_mobile": true,
-        "text_color": "#ffffff",
-        "button_color": "#dec8b5"
-      }
-    },
     "image_with_text_overlay_VHfFdD": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -594,13 +594,14 @@
   "order": [
     "16507112644f91fd39",
     "slideshow",
+    "165147731496201e33",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
+    "collection_list_jAHRGM",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "16507112611d925512",
     "1650476318fd586541",
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "collection-list",
-    "165147731496201e33",
     "6da4724e-df67-4ed8-b359-e8bcc428a7b1",
     "collection_list_qFtyqT",
     "1650711244533a7038",
@@ -611,7 +612,6 @@
     "1686260352f5301557",
     "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
     "144e5df7-10a1-480d-8456-c4b280768a9b",
-    "collection_list_jAHRGM",
     "image_with_text_overlay_VHfFdD"
   ]
 }
