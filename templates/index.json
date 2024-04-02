@@ -71,13 +71,29 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "image_qUUNtp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spring_Market_Lookbook-3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Spring_Market_Lookbook-3_2e3555e6-a395-4105-aa67-7ce3f37de25b.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "image_adxgKi",
         "3bae5339-115f-4a7e-a729-0a0435777b25",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_68DhqF"
+        "image_68DhqF",
+        "image_qUUNtp"
       ],
       "settings": {
         "show_fullscreen": true,
