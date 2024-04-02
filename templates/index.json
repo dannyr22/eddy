@@ -12,6 +12,20 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_adxgKi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24006-101-42116.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "BRIDAL LACE",
+            "button_1_text": "Say I Do",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "settings": {
@@ -56,27 +70,13 @@
             "button_2_text": "",
             "button_2_link": ""
           }
-        },
-        "image_adxgKi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24006-101-42116.jpg",
-            "apply_overlay": false,
-            "content_position": "middleRight",
-            "subheading": "",
-            "title": "BRIDAL LACE",
-            "button_1_text": "Say I Do",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
+        "image_adxgKi",
         "3bae5339-115f-4a7e-a729-0a0435777b25",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_68DhqF",
-        "image_adxgKi"
+        "image_68DhqF"
       ],
       "settings": {
         "show_fullscreen": true,
