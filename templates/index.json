@@ -170,6 +170,7 @@
     },
     "1650476318fd586541": {
       "type": "custom-html",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -575,6 +576,19 @@
         "text_color": "#ffffff",
         "button_color": "#dec8b5"
       }
+    },
+    "image_with_text_overlay_VHfFdD": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "Tell your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+      }
     }
   },
   "order": [
@@ -597,6 +611,7 @@
     "1686260352f5301557",
     "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
     "144e5df7-10a1-480d-8456-c4b280768a9b",
-    "collection_list_jAHRGM"
+    "collection_list_jAHRGM",
+    "image_with_text_overlay_VHfFdD"
   ]
 }
