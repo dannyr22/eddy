@@ -149,15 +149,6 @@
         "button_color": "#dec8b5"
       }
     },
-    "1650476318fd586541": {
-      "type": "custom-html",
-      "disabled": true,
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">it all started with love &amp; custom florals... learn more on the spark that started EDDY here<\/marquee>"
-      }
-    },
     "6791590f-decb-4f88-b7ff-37c29bb1ceba": {
       "type": "custom-html",
       "disabled": true,
@@ -177,8 +168,17 @@
         "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
       }
     },
+    "1650476318fd586541": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">It all started with custom florals... learn more on the spark that started Eddy here<\/marquee>"
+      }
+    },
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/Website_Banners_copy_9dd9d45e-fab1-44d7-8741-5e688a5d7d91.png",
@@ -581,9 +581,9 @@
     "16507112644f91fd39",
     "slideshow",
     "26ee7fe9-a5f4-4363-a8f4-9c1e3221387d",
-    "1650476318fd586541",
     "6791590f-decb-4f88-b7ff-37c29bb1ceba",
     "16507112611d925512",
+    "1650476318fd586541",
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef",
     "collection-list",
     "165147731496201e33",
