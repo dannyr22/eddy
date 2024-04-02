@@ -29,16 +29,15 @@
         },
         "image_adxgKi": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/24006-101-42116.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24006-101-42116_f2cb5ffd-dcf5-4d77-bebe-20c3de4ed50c.jpg",
+            "image": "shopify:\/\/shop_images\/24028-456-39254.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-39254_dabba701-30bd-4ff2-a7de-78119639f3f6.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "BRIDAL LACE",
-            "button_1_text": "Say I Do",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/dresses",
             "button_2_text": "",
             "button_2_link": ""
           }
