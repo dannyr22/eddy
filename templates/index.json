@@ -27,21 +27,6 @@
             "button_2_link": ""
           }
         },
-        "image_adxgKi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24028-456-39254_1a22428f-3cff-4b4c-9e00-738c11c29520.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24028-456-39254_dabba701-30bd-4ff2-a7de-78119639f3f6.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/dresses",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "3bae5339-115f-4a7e-a729-0a0435777b25": {
           "type": "image",
           "settings": {
@@ -53,6 +38,21 @@
             "title": "SPRING",
             "button_1_text": "blooming now",
             "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_adxgKi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24028-456-39254_1a22428f-3cff-4b4c-9e00-738c11c29520.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-39254_dabba701-30bd-4ff2-a7de-78119639f3f6.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/dresses",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -90,8 +90,8 @@
       },
       "block_order": [
         "image_qUUNtp",
-        "image_adxgKi",
         "3bae5339-115f-4a7e-a729-0a0435777b25",
+        "image_adxgKi",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
         "image_68DhqF"
       ],
