@@ -98,6 +98,15 @@
         "enable_video_looping": false
       }
     },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
     "judgeme_section_review_widget_1de3": {
       "type": "apps",
       "blocks": {
@@ -130,15 +139,6 @@
         "include_margins": true
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "You may also like",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false
-      }
-    },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
       "settings": {
@@ -151,9 +151,9 @@
   },
   "order": [
     "main",
+    "product-recommendations",
     "judgeme_section_review_widget_1de3",
     "168626030567a54049",
-    "product-recommendations",
     "recently-viewed-products"
   ]
 }
