@@ -12,6 +12,13 @@
             "show_taxes_included": false
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": false
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -71,24 +78,17 @@
             "alert_msg_bg_error": "#fdeded",
             "alert_msg_text_color_error": "#8e5d5c"
           }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": false
-          }
         }
       },
       "block_order": [
         "product_meta",
+        "buy_buttons",
         "description",
         "9e0eb468-d7b1-47d4-8b0c-69142d1cf0ac",
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "50e8cc2b-105c-40bd-92ec-324b58b572d7",
-        "buy_buttons"
+        "50e8cc2b-105c-40bd-92ec-324b58b572d7"
       ],
       "settings": {
         "image_size": "large",
