@@ -67,11 +67,11 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": false,
+          "enable_bar": true,
           "home_page_only": false,
           "background": "#e4bbd3",
           "text_color": "#ffffff",
-          "content": "$100 off all orders over $200 with code ONMEG - Ends 1\/31",
+          "content": "Celebrating Two Years! 20% off everything  *two days only*",
           "link": "shopify:\/\/collections\/max-coze"
         }
       },
