@@ -12,17 +12,32 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "image_qUUNtp": {
+        "image_adxgKi": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Spring_Market_Lookbook-3.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24006-101-42116_e01f4ee9-686b-43b0-9293-59e7e8de5957.jpg",
+            "image": "shopify:\/\/shop_images\/322_Ads_Youtube_Banner.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-39254_dabba701-30bd-4ff2-a7de-78119639f3f6.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/dresses",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_68DhqF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_copy_04caa392-7a90-4e0c-959f-a63b995d52e4.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
             "title": "",
-            "button_1_text": "Say I Do",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_text": "",
+            "button_1_link": "",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -42,17 +57,17 @@
             "button_2_link": ""
           }
         },
-        "image_adxgKi": {
+        "image_qUUNtp": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/322_Ads_Youtube_Banner.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24028-456-39254_dabba701-30bd-4ff2-a7de-78119639f3f6.jpg",
+            "image": "shopify:\/\/shop_images\/Spring_Market_Lookbook-3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24006-101-42116_e01f4ee9-686b-43b0-9293-59e7e8de5957.jpg",
             "apply_overlay": false,
-            "content_position": "bottomLeft",
+            "content_position": "bottomRight",
             "subheading": "",
             "title": "",
-            "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/dresses",
+            "button_1_text": "Say I Do",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -71,29 +86,14 @@
             "button_2_text": "",
             "button_2_link": ""
           }
-        },
-        "image_68DhqF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24028-456-37489_70a8af77-9065-4070-8f72-b4f0cc892724.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24028-456-37489_copy_04caa392-7a90-4e0c-959f-a63b995d52e4.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomRight",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
-        "image_qUUNtp",
-        "3bae5339-115f-4a7e-a729-0a0435777b25",
         "image_adxgKi",
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_68DhqF"
+        "image_68DhqF",
+        "3bae5339-115f-4a7e-a729-0a0435777b25",
+        "image_qUUNtp",
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
       ],
       "settings": {
         "show_fullscreen": true,
