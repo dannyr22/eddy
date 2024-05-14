@@ -14,8 +14,9 @@
       "blocks": {
         "image_adxgKi": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_24d2ef6d-055f-4ee6-8929-918e7133a501.jpg",
+            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_6674c4fb-16dc-4859-a16a-dc5a69956782.jpg",
             "mobile_image": "shopify:\/\/shop_images\/24009-274-0037_3cf0edab-e6f3-4e09-8b1b-e57ac12a936a.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
