@@ -71,29 +71,13 @@
             "button_2_text": "",
             "button_2_link": ""
           }
-        },
-        "3bae5339-115f-4a7e-a729-0a0435777b25": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "mobile_image": "shopify:\/\/shop_images\/24002-108-34782_2cdea529-1f18-4a8d-ac04-f337913d6711.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomRight",
-            "subheading": "",
-            "title": "SPRING",
-            "button_1_text": "blooming now",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
         "image_adxgKi",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
         "image_68DhqF",
-        "image_qUUNtp",
-        "3bae5339-115f-4a7e-a729-0a0435777b25"
+        "image_qUUNtp"
       ],
       "settings": {
         "show_fullscreen": true,
