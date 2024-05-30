@@ -134,37 +134,21 @@
         },
         "collection_K8nj8i": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Skirts",
+            "title": "Bottoms",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/skirts",
             "apply_overlay": true
-          }
-        },
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/24310-101-9701_8902baf5-8f20-4164-beb7-d2a8e4093d55.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "Dresses",
-            "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/skirts",
-            "apply_overlay": false
           }
         }
       },
       "block_order": [
         "collection_CEQgDG",
-        "collection_K8nj8i",
-        "template--16422645989632__26ee7fe9-a5f4-4363-a8f4-9c1e3221387d-collection-2"
+        "collection_K8nj8i"
       ],
       "settings": {
         "image_size": "large",
