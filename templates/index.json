@@ -134,6 +134,7 @@
         },
         "collection_K8nj8i": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image_alignment": "center center",
@@ -170,7 +171,7 @@
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "jackets",
+            "title": "Dresses",
             "button_text": "Explore",
             "button_link": "shopify:\/\/products\/janean-quilted-reversible-midi-jacket-sugar-salsa",
             "apply_overlay": false
