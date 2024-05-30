@@ -180,14 +180,14 @@
         "collection_FFk9EY": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/24002-273_24005-273-3934_05303f31-61b2-41a0-8c7c-44179b292121.jpg",
+            "collection": "party-blazers",
+            "image": "shopify:\/\/shop_images\/24009-274-0440_7864c5a6-471a-4db6-b46f-faf2f5ca3c8c.jpg",
             "image_alignment": "bottom left",
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "Blazers",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/skirts",
+            "button_link": "shopify:\/\/collections\/party-blazers",
             "apply_overlay": false
           }
         }
