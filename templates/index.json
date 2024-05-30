@@ -168,7 +168,7 @@
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/24012-101-6087_2.jpg",
-            "image_alignment": "center center",
+            "image_alignment": "top left",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Dresses",
