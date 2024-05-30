@@ -124,11 +124,11 @@
             "collection": "tops",
             "image": "shopify:\/\/shop_images\/24025-101-42717_7d93724c-ace9-4cc2-8792-520793c2f0a7.jpg",
             "image_alignment": "center center",
-            "content_position": "bottomLeft",
+            "content_position": "middleLeft",
             "subheading": "",
             "title": "Tops",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/party-blazers",
+            "button_link": "shopify:\/\/collections\/tops",
             "apply_overlay": false
           }
         },
@@ -138,7 +138,7 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/24428-301_24031-301-0338_2e969a14-1e00-43dc-b5a1-21787238cf05.jpg",
             "image_alignment": "top left",
-            "content_position": "bottomLeft",
+            "content_position": "middleLeft",
             "subheading": "",
             "title": "Bottoms",
             "button_text": "Explore",
