@@ -589,6 +589,27 @@
         "title": "Tell your story",
         "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
       }
+    },
+    "blog_posts_Qhtjb6": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_7q8P3q": {
+          "type": "blog",
+          "settings": {
+            "blog": "news"
+          }
+        }
+      },
+      "block_order": [
+        "blog_7q8P3q"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Eddy's Beginning",
+        "show_category": false,
+        "button_link": "shopify:\/\/blogs\/blooming-buds\/our-story",
+        "button_text": "Read More"
+      }
     }
   },
   "order": [
@@ -612,6 +633,7 @@
     "1686260352f5301557",
     "fa2a94a6-267e-4d76-b076-54e62b4dfb5c",
     "144e5df7-10a1-480d-8456-c4b280768a9b",
-    "image_with_text_overlay_VHfFdD"
+    "image_with_text_overlay_VHfFdD",
+    "blog_posts_Qhtjb6"
   ]
 }
