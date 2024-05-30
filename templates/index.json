@@ -596,7 +596,7 @@
         "blog_7q8P3q": {
           "type": "blog",
           "settings": {
-            "blog": "news"
+            "blog": "blooming-buds"
           }
         }
       },
@@ -605,7 +605,7 @@
       ],
       "settings": {
         "subheading": "",
-        "title": "Eddy's Beginning",
+        "title": "Discover Blooming Buds",
         "show_category": false,
         "button_link": "shopify:\/\/blogs\/blooming-buds",
         "button_text": "Read More"
