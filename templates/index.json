@@ -134,10 +134,10 @@
         },
         "collection_K8nj8i": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "",
-            "image_alignment": "center center",
+            "image": "shopify:\/\/shop_images\/24428-301_24031-301-0338_2e969a14-1e00-43dc-b5a1-21787238cf05.jpg",
+            "image_alignment": "top left",
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "Bottoms",
@@ -167,9 +167,9 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/24036-188-36005_a9962933-1bba-47d2-bca4-bd3e4d07ba5d.jpg",
+            "image": "shopify:\/\/shop_images\/24012-101-6087_2.jpg",
             "image_alignment": "center center",
-            "content_position": "bottomLeft",
+            "content_position": "middleLeft",
             "subheading": "",
             "title": "Dresses",
             "button_text": "Explore",
