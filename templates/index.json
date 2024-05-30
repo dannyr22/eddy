@@ -121,12 +121,12 @@
         "collection_CEQgDG": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "tops",
             "image": "shopify:\/\/shop_images\/24025-101-42717_7d93724c-ace9-4cc2-8792-520793c2f0a7.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Blazers",
+            "title": "Tops",
             "button_text": "Explore",
             "button_link": "shopify:\/\/collections\/party-blazers",
             "apply_overlay": false
@@ -603,6 +603,7 @@
       "block_order": [
         "blog_7q8P3q"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "Discover Blooming Buds",
