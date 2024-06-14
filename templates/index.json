@@ -12,17 +12,17 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "image_NzWVfR": {
+        "image_qUUNtp": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358_072eb309-9fcc-4569-8981-1959468cca46.jpg",
+            "image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013_db481d94-ff10-44ee-9dab-1a2dc2b8f654.jpg",
             "apply_overlay": false,
-            "content_position": "bottomLeft",
+            "content_position": "bottomRight",
             "subheading": "",
             "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
+            "button_1_text": "Say I Do",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -57,6 +57,21 @@
             "button_2_link": ""
           }
         },
+        "image_NzWVfR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358_072eb309-9fcc-4569-8981-1959468cca46.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
           "settings": {
@@ -71,29 +86,14 @@
             "button_2_text": "",
             "button_2_link": ""
           }
-        },
-        "image_qUUNtp": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013_db481d94-ff10-44ee-9dab-1a2dc2b8f654.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomRight",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "Say I Do",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
-        "image_NzWVfR",
+        "image_qUUNtp",
         "image_68DhqF",
         "image_adxgKi",
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_qUUNtp"
+        "image_NzWVfR",
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
       ],
       "settings": {
         "show_fullscreen": true,
