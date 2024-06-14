@@ -71,13 +71,29 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "image_NzWVfR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358_072eb309-9fcc-4569-8981-1959468cca46.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "image_68DhqF",
         "image_adxgKi",
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
-        "image_qUUNtp"
+        "image_qUUNtp",
+        "image_NzWVfR"
       ],
       "settings": {
         "show_fullscreen": true,
