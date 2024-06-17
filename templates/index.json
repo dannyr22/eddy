@@ -27,36 +27,6 @@
             "button_2_link": ""
           }
         },
-        "image_68DhqF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24028-101-8425_84618ce1-9bdc-4445-9680-5636a16a8ff5.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24028-101-8425_76c9cb51-cb24-4501-850d-957559c55ae1.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomRight",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "image_adxgKi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_6674c4fb-16dc-4859-a16a-dc5a69956782.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/24009-274-0037_3cf0edab-e6f3-4e09-8b1b-e57ac12a936a.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/dresses",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "image_NzWVfR": {
           "type": "image",
           "settings": {
@@ -86,14 +56,44 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "image_68DhqF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24028-101-8425_84618ce1-9bdc-4445-9680-5636a16a8ff5.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/24028-101-8425_76c9cb51-cb24-4501-850d-957559c55ae1.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomRight",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_adxgKi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_98662e73-e3f2-47eb-8adb-ab17e0c84501.png",
+            "mobile_image": "shopify:\/\/shop_images\/24009-274-0037_3cf0edab-e6f3-4e09-8b1b-e57ac12a936a.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/dresses",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "image_qUUNtp",
-        "image_68DhqF",
-        "image_adxgKi",
         "image_NzWVfR",
-        "3368169c-e1b1-4cf6-9c0a-184fac8599ff"
+        "3368169c-e1b1-4cf6-9c0a-184fac8599ff",
+        "image_68DhqF",
+        "image_adxgKi"
       ],
       "settings": {
         "show_fullscreen": true,
