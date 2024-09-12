@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "16507112644f91fd39": {
@@ -37,7 +46,7 @@
             "subheading": "",
             "title": "",
             "button_1_text": "Explore The New",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_link": "shopify:\/\/collections\/new-arrivalss",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -111,7 +120,7 @@
         "1651477314e930b694-0": {
           "type": "collection",
           "settings": {
-            "collection": "new-arrivals",
+            "collection": "new-arrivalss",
             "title": "allow us to introduce...",
             "grid_items_count": 3,
             "button_text": "Shop The Summer Collection"
