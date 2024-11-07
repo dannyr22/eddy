@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -38,7 +38,7 @@
           "type": "quote",
           "disabled": true,
           "settings": {
-            "content": "<p>You can use this element to add a quote, content...<\/p>",
+            "content": "<p>You can use this element to add a quote, content...</p>",
             "author": ""
           }
         }
@@ -48,7 +48,7 @@
       ],
       "settings": {
         "title": "Shop now",
-        "collection": "new-arrivalss",
+        "collection": "new-arrivals",
         "grid_items_count": 6,
         "show_product_info": true,
         "show_vendor": false,

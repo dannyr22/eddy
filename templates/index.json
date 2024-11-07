@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16507112644f91fd39": {
@@ -24,14 +24,14 @@
         "3368169c-e1b1-4cf6-9c0a-184fac8599ff": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook.png",
-            "mobile_image": "shopify:\/\/shop_images\/24027-102_24034-102-2802_fd5edb4a-e398-4514-aad0-e11bb6a62918.jpg",
+            "image": "shopify://shop_images/Holiday_Resort_Lookbook.png",
+            "mobile_image": "shopify://shop_images/24027-102_24034-102-2802_fd5edb4a-e398-4514-aad0-e11bb6a62918.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/party-blazers",
+            "button_1_link": "shopify://collections/party-blazers",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -39,14 +39,14 @@
         "image_qUUNtp": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Pink_Campaign_Moment-9013_db481d94-ff10-44ee-9dab-1a2dc2b8f654.jpg",
+            "image": "shopify://shop_images/Pink_Campaign_Moment-9013.jpg",
+            "mobile_image": "shopify://shop_images/Pink_Campaign_Moment-9013_db481d94-ff10-44ee-9dab-1a2dc2b8f654.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
             "title": "",
             "button_1_text": "Explore The New",
-            "button_1_link": "shopify:\/\/collections\/new-arrivalss",
+            "button_1_link": "shopify://collections/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -54,14 +54,14 @@
         "image_adxgKi": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_98662e73-e3f2-47eb-8adb-ab17e0c84501.png",
-            "mobile_image": "shopify:\/\/shop_images\/24310-901-7542_bba9d6b2-c9f3-4846-a632-680d66065ad8.jpg",
+            "image": "shopify://shop_images/Holiday_Resort_Lookbook_98662e73-e3f2-47eb-8adb-ab17e0c84501.png",
+            "mobile_image": "shopify://shop_images/24310-901-7542_bba9d6b2-c9f3-4846-a632-680d66065ad8.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/dresses",
+            "button_1_link": "shopify://collections/dresses",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -69,8 +69,8 @@
         "image_NzWVfR": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Campaign_White_Bride_with_Pinks-12358_072eb309-9fcc-4569-8981-1959468cca46.jpg",
+            "image": "shopify://shop_images/Campaign_White_Bride_with_Pinks-12358.jpg",
+            "mobile_image": "shopify://shop_images/Campaign_White_Bride_with_Pinks-12358_072eb309-9fcc-4569-8981-1959468cca46.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -84,8 +84,8 @@
         "image_68DhqF": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Holiday_Resort_Lookbook_copy.png",
-            "mobile_image": "shopify:\/\/shop_images\/Campaign_Blue_Brides-11264_8da10326-7c66-4a7e-8780-96321eeb2e0d.jpg",
+            "image": "shopify://shop_images/Holiday_Resort_Lookbook_copy.png",
+            "mobile_image": "shopify://shop_images/Campaign_Blue_Brides-11264_8da10326-7c66-4a7e-8780-96321eeb2e0d.jpg",
             "apply_overlay": false,
             "content_position": "bottomRight",
             "subheading": "",
@@ -120,7 +120,7 @@
         "1651477314e930b694-0": {
           "type": "collection",
           "settings": {
-            "collection": "new-arrivalss",
+            "collection": "new-arrivals",
             "title": "allow us to introduce...",
             "grid_items_count": 3,
             "button_text": "Shop The Summer Collection"
@@ -147,13 +147,13 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
-            "image": "shopify:\/\/shop_images\/24002-273_24005-273-4106_copy_db78f65f-4951-4360-a3bd-a25854fd1868.jpg",
+            "image": "shopify://shop_images/24002-273_24005-273-4106_copy_db78f65f-4951-4360-a3bd-a25854fd1868.jpg",
             "image_alignment": "center center",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Tops",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/tops",
+            "button_link": "shopify://collections/tops",
             "apply_overlay": false
           }
         },
@@ -161,13 +161,13 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/24428-301_24031-301-0338_2e969a14-1e00-43dc-b5a1-21787238cf05.jpg",
+            "image": "shopify://shop_images/24428-301_24031-301-0338_2e969a14-1e00-43dc-b5a1-21787238cf05.jpg",
             "image_alignment": "top left",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Bottoms",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/skirts",
+            "button_link": "shopify://collections/skirts",
             "apply_overlay": true
           }
         }
@@ -192,13 +192,13 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/24012-101-6087_2.jpg",
+            "image": "shopify://shop_images/24012-101-6087_2.jpg",
             "image_alignment": "top left",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Dresses",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/dresses",
+            "button_link": "shopify://collections/dresses",
             "apply_overlay": false
           }
         },
@@ -206,13 +206,13 @@
           "type": "collection",
           "settings": {
             "collection": "party-blazers",
-            "image": "shopify:\/\/shop_images\/24009-274-0440_7864c5a6-471a-4db6-b46f-faf2f5ca3c8c.jpg",
+            "image": "shopify://shop_images/24009-274-0440_7864c5a6-471a-4db6-b46f-faf2f5ca3c8c.jpg",
             "image_alignment": "bottom left",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Blazers",
             "button_text": "Explore",
-            "button_link": "shopify:\/\/collections\/party-blazers",
+            "button_link": "shopify://collections/party-blazers",
             "apply_overlay": false
           }
         }
@@ -236,17 +236,15 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER<\/marquee>"
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">JOIN OUR MAILING LIST TO RECEIVE 10% OFF YOUR FIRST ORDER</marquee>"
       }
     },
     "16507112611d925512": {
       "type": "background-video",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "section_size": "large",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+        "video_url": "https://vimeo.com/899972572?share=copy"
       }
     },
     "1650476318fd586541": {
@@ -255,7 +253,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">It all started with custom florals... learn more on the spark that started Eddy here<\/marquee>"
+        "html": "<marquee truespeed=\"1\" scrollamount=\"12\">It all started with custom florals... learn more on the spark that started Eddy here</marquee>"
       }
     },
     "c6821e1a-af01-47cc-9366-fcf00a4e05ef": {
@@ -263,13 +261,13 @@
       "disabled": true,
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Website_Banners_copy_9dd9d45e-fab1-44d7-8741-5e688a5d7d91.png",
+        "image": "shopify://shop_images/Website_Banners_copy_9dd9d45e-fab1-44d7-8741-5e688a5d7d91.png",
         "text_color": "#303030",
         "overlay_color": "#faf2f8",
         "overlay_opacity": 36,
         "subheading": "",
         "title": "it all started with the custom designed floral wedding...",
-        "content": "<p><a href=\"\/pages\/about-us\" title=\"About us\">learn more about how Eddy began<\/a><\/p>"
+        "content": "<p><a href=\"/pages/about-us\" title=\"About us\">learn more about how Eddy began</a></p>"
       }
     },
     "collection-list": {
@@ -279,7 +277,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/Hol-Res23-23127-047_2175.jpg",
+            "image": "shopify://shop_images/Hol-Res23-23127-047_2175.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -293,7 +291,7 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
-            "image": "shopify:\/\/shop_images\/Fall23-23032-170_23020-170_21018.jpg",
+            "image": "shopify://shop_images/Fall23-23032-170_23020-170_21018.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -307,7 +305,7 @@
           "type": "collection",
           "settings": {
             "collection": "skirts",
-            "image": "shopify:\/\/shop_images\/Fall23-23095-418_23102-418_22497.jpg",
+            "image": "shopify://shop_images/Fall23-23095-418_23102-418_22497.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -321,7 +319,7 @@
           "type": "collection",
           "settings": {
             "collection": "blazers",
-            "image": "shopify:\/\/shop_images\/Fall23-23109-962_26142_copy.jpg",
+            "image": "shopify://shop_images/Fall23-23109-962_26142_copy.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -335,7 +333,7 @@
           "type": "collection",
           "settings": {
             "collection": "sleepwear",
-            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-22093-3352_1b77a013-7f81-45d5-a452-ac5f07d7b299.jpg",
+            "image": "shopify://shop_images/Eddy-Holiday-SF-2022-22093-3352_1b77a013-7f81-45d5-a452-ac5f07d7b299.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -349,7 +347,7 @@
           "type": "collection",
           "settings": {
             "collection": "accessories",
-            "image": "shopify:\/\/shop_images\/fall23-23016-425_5901_7c36d229-1647-4478-99ad-5cb64ff65bcd.jpg",
+            "image": "shopify://shop_images/fall23-23016-425_5901_7c36d229-1647-4478-99ad-5cb64ff65bcd.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "",
@@ -383,13 +381,13 @@
       "disabled": true,
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/MtTam_23038-107_7160.jpg",
+        "image": "shopify://shop_images/MtTam_23038-107_7160.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#dec8b5",
         "overlay_opacity": 0,
         "subheading": "",
         "title": "",
-        "content": "<p><a href=\"\/collections\/sleepwear\" title=\"Sleepwear\">SLEEPWEAR<\/a><\/p>"
+        "content": "<p><a href=\"/collections/sleepwear\" title=\"Sleepwear\">SLEEPWEAR</a></p>"
       }
     },
     "collection_list_qFtyqT": {
@@ -456,11 +454,11 @@
       "settings": {
         "subheading": "",
         "title": "resort",
-        "image": "shopify:\/\/shop_images\/Hol-Res23-23009-273_23034-273_4724-2.jpg",
+        "image": "shopify://shop_images/Hol-Res23-23009-273_23034-273_4724-2.jpg",
         "image_position": "right",
         "content": "",
         "link_text": "getaway packing list",
-        "link_url": "shopify:\/\/collections\/the-resort-edit"
+        "link_url": "shopify://collections/the-resort-edit"
       }
     },
     "1650798452ef2a3dd2": {
@@ -469,11 +467,11 @@
       "settings": {
         "subheading": "",
         "title": "Business + Pleasure",
-        "image": "shopify:\/\/shop_images\/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
+        "image": "shopify://shop_images/fall23-23034-340_8579_3ab7a716-d153-489c-8ff3-1c4230a68506.jpg",
         "image_position": "left",
         "content": "",
         "link_text": "party blazers",
-        "link_url": "shopify:\/\/collections\/blazers"
+        "link_url": "shopify://collections/blazers"
       }
     },
     "165079842840a1d8ce": {
@@ -481,13 +479,13 @@
       "disabled": true,
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Fall23-23103-705_7168.jpg",
+        "image": "shopify://shop_images/Fall23-23103-705_7168.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#303030",
         "overlay_opacity": 17,
         "subheading": "",
         "title": "WELCOME TO EDDY",
-        "content": "<p>Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.<\/p>"
+        "content": "<p>Pairing elevated California bohemia with global inspiration, Eddy is on a mission to consciously curate a whimsical world. One that helps you feel good on the inside and dress like it on the outside.</p>"
       }
     },
     "5f602754-47b5-46d9-9946-f3419ee32656": {
@@ -495,13 +493,13 @@
       "disabled": true,
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/Fall23-23104-215_22968_6d8f18d4-d8f2-4cd9-8784-bc9546872c7b.jpg",
+        "image": "shopify://shop_images/Fall23-23104-215_22968_6d8f18d4-d8f2-4cd9-8784-bc9546872c7b.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#595959",
         "overlay_opacity": 0,
         "subheading": "",
         "title": "BE OUR GUEST",
-        "content": "<p><a href=\"\/collections\/the-wedding-edit\" title=\"Wedding Season Edit\">Shop Wedding Season Looks<\/a><\/p>"
+        "content": "<p><a href=\"/collections/the-wedding-edit\" title=\"Wedding Season Edit\">Shop Wedding Season Looks</a></p>"
       }
     },
     "shop-the-look": {
@@ -510,7 +508,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
+            "image": "shopify://shop_images/Eddy-Holiday-SF-2022-Campaign-1863-k.jpg",
             "dot_style": "light",
             "product_1": "amber-beaded-fluted-skirt",
             "product_1_horizontal_position": 58,
@@ -526,7 +524,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/skirt0.jpg",
+            "image": "shopify://shop_images/skirt0.jpg",
             "dot_style": "light",
             "product_1": "brook-embroidered-fluted-skirt",
             "product_1_horizontal_position": 42,
@@ -555,9 +553,8 @@
       "type": "apps",
       "blocks": {
         "6a8f4b13-ae85-4d61-acba-38dc3b114b5a": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -573,7 +570,7 @@
       "disabled": true,
       "settings": {
         "section_size": "preserveRatio",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+        "video_url": "https://vimeo.com/899972572?share=copy"
       }
     },
     "144e5df7-10a1-480d-8456-c4b280768a9b": {
@@ -584,7 +581,7 @@
         "text_color": "#ffffff",
         "subheading": "",
         "title": "WELCOME TO EDDY",
-        "video_url": "https:\/\/vimeo.com\/899972572?share=copy"
+        "video_url": "https://vimeo.com/899972572?share=copy"
       }
     },
     "image_with_text_overlay_VHfFdD": {
@@ -597,7 +594,7 @@
         "overlay_opacity": 30,
         "subheading": "",
         "title": "Tell your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+        "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
       }
     },
     "blog_posts_Qhtjb6": {
@@ -618,7 +615,7 @@
         "subheading": "",
         "title": "Discover Blooming Buds",
         "show_category": false,
-        "button_link": "shopify:\/\/blogs\/blooming-buds",
+        "button_link": "shopify://blogs/blooming-buds",
         "button_text": "Read More"
       }
     }
