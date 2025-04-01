@@ -31,7 +31,7 @@
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "shopify://collections/party-blazers",
+            "button_1_link": "shopify://collections/blazers",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -205,14 +205,14 @@
         "collection_FFk9EY": {
           "type": "collection",
           "settings": {
-            "collection": "party-blazers",
+            "collection": "blazers",
             "image": "shopify://shop_images/24009-274-0440_7864c5a6-471a-4db6-b46f-faf2f5ca3c8c.jpg",
             "image_alignment": "bottom left",
             "content_position": "middleLeft",
             "subheading": "",
             "title": "Blazers",
             "button_text": "Explore",
-            "button_link": "shopify://collections/party-blazers",
+            "button_link": "shopify://collections/blazers",
             "apply_overlay": false
           }
         }
