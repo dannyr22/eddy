@@ -318,7 +318,7 @@
         "5c7d12c3-cf5c-4207-87c2-56ecf6a43f78": {
           "type": "collection",
           "settings": {
-            "collection": "blazers",
+            "collection": "outerwear",
             "image": "shopify://shop_images/Fall23-23109-962_26142_copy.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
@@ -471,7 +471,7 @@
         "image_position": "left",
         "content": "",
         "link_text": "party blazers",
-        "link_url": "shopify://collections/blazers"
+        "link_url": "shopify://collections/outerwear"
       }
     },
     "165079842840a1d8ce": {
